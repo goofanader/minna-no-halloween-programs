@@ -1,0 +1,21 @@
+#summary List of things still left to do.
+#labels Featured,Phase-Design
+
+= For Version 0.0.1 =
+Get Anime Trivia working with a hard-coded game playing.
+  * Host Panel:
+    * Link joystick button presses to "Players" tab and get players hooked up
+      * Don't forget that players need a name, points, and which button they're connected to.
+    * Setup non-working question page (it just needs to look pretty)
+  * Board Panel:
+    * Make category art
+    * Map a font for sprite use
+    * Connect players' info for point acquisition and names
+
+== What Won't Work ==
+  * Questions tab on Host Panel
+  * Transitions between different stages of the game (AKA the categories board, the question/answer view, and the players' points view)
+  * Timer
+  * Pause button
+  * Saving/Loading trivia game
+  * Anime Eyes at all
