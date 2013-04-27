@@ -1,4 +1,0 @@
-#summary Beginning page with links to other pages.
-
-= Introduction =
-To be filled in later.
