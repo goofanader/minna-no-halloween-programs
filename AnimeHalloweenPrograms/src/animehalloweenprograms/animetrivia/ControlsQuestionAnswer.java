@@ -4,6 +4,9 @@
  */
 package animehalloweenprograms.animetrivia;
 
+import java.util.Timer;
+import java.util.TimerTask;
+
 /**
  *
  * @author Phyllis
@@ -15,6 +18,115 @@ public class ControlsQuestionAnswer extends javax.swing.JPanel {
      */
     public ControlsQuestionAnswer() {
         initComponents();
+
+        triviaControls = null;
+        /*stopDisplayingAnswer = new StopDisplayingAnswerTask();
+        stopDisplayingQuestion = new StopDisplayingQuestionTask();
+        endPauseForAnswer = new EndPauseForAnswerTask();
+        stopDisplayingPoints = new StopDisplayingPointsTask();*/
+
+        seconds = INIT_SECONDS;
+        isQuestion = true;
+
+        timer = new Timer();
+    }
+
+    public void setTriviaControls(TriviaControls aThis) {
+        triviaControls = aThis;
+    }
+
+    public void beginNewQuestion() {
+        //timer = new Timer();
+        System.out.println("Beginning new question");
+        timer.schedule(new StopDisplayingQuestionTask(), seconds * SECOND_MULTIPLIER);
+    }
+
+    private class StopDisplayingQuestionTask extends TimerTask {
+
+        @Override
+        public void run() {
+            if (isQuestion) {
+                timer.purge();
+                //timer = new Timer();
+
+                System.out.println("\nTime's up! switching to the answer panel");
+                isQuestion = false;
+
+                //show answer panel
+                questionAnswerText.setText("Answer");
+
+                timer.schedule(new StopDisplayingAnswerTask(), WAIT_TIME * SECOND_MULTIPLIER);
+            }
+        }
+    }
+
+    private class EndPauseForAnswerTask extends TimerTask {
+
+        @Override
+        public void run() {
+            timer.purge();
+            //timer = new Timer();
+
+            //switch back to question panel unless all players have gone
+            timer.schedule(new StopDisplayingQuestionTask(), seconds * SECOND_MULTIPLIER);
+        }
+    }
+
+    private class StopDisplayingAnswerTask extends TimerTask {
+
+        @Override
+        public void run() {
+            timer.purge();
+            //timer = new Timer();
+            // show points panel on board view
+            
+            System.out.println("Time's up! Dipslaying points panel");
+            timer.schedule(new StopDisplayingPointsTask(), WAIT_TIME * SECOND_MULTIPLIER);
+        }
+    }
+
+    private class StopDisplayingPointsTask extends TimerTask {
+
+        @Override
+        public void run() {
+            timer.purge();
+            //timer = new Timer();
+            //switch back to category view
+            System.out.println("Time's up! Let's display the categories panel.");
+            questionAnswerText.setText("Question");
+            triviaControls.switchToCategories();
+        }
+    }
+
+    public void pauseForAnswer() {
+        timer.purge();
+        //timer = new Timer();
+
+        //switch to timer to end when the player doesn't respond.
+        //visually, reset timer for the player's answer
+
+        timer.schedule(new EndPauseForAnswerTask(), ANSWER_TIME * SECOND_MULTIPLIER);
+    }
+
+    public void incorrectAnswer() {
+        timer.purge();
+        //timer = new Timer();
+
+        //switch to question view with a renewed timer
+        timer.schedule(new StopDisplayingQuestionTask(), seconds * SECOND_MULTIPLIER);
+    }
+
+    public void correctAnswer() {
+        timer.purge();
+        //timer = new Timer();
+
+        //switch to answer view
+
+        timer.schedule(new StopDisplayingAnswerTask(), WAIT_TIME * SECOND_MULTIPLIER);
+    }
+    
+    public void stopTimers() {
+        timer.purge();
     }
 
     /**
@@ -60,4 +172,14 @@ public class ControlsQuestionAnswer extends javax.swing.JPanel {
     private javax.swing.JLabel questionAnswerText;
     private javax.swing.JTextArea questionTextArea;
     // End of variables declaration//GEN-END:variables
+    private Timer timer;
+    private int seconds;
+    private boolean isQuestion;
+    private TriviaControls triviaControls;
+    
+    //TimerTask stopDisplayingAnswer, stopDisplayingQuestion, endPauseForAnswer, stopDisplayingPoints;
+    private static final int INIT_SECONDS = 5;
+    private static final int WAIT_TIME = 3;
+    private static final int ANSWER_TIME = 5;
+    private static final int SECOND_MULTIPLIER = 1000;
 }

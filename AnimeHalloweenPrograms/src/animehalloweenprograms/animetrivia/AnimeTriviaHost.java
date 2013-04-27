@@ -19,24 +19,24 @@ public class AnimeTriviaHost extends javax.swing.JFrame implements WindowListene
      */
     public AnimeTriviaHost() {
         initComponents();
-        
+
         isPlayingGame = isPausedGame = false;
         board = null;
-        
+
         triviaControls = new TriviaControls();
         triviaQuestions = new TriviaQuestions();
         triviaPlayers = new TriviaPlayers();
-        
+
         controllerView.setLayout(new BorderLayout());
         controllerView.add(triviaControls, BorderLayout.CENTER);
-        
+
         addWindowListener(this);
     }
-    
+
     public void setAnimeBoard(AnimeTriviaGameBoard board) {
         this.board = board;
     }
-    
+
     public void windowClosed(WindowEvent e) {
         board.endDisplay();
         //System.exit(0);
@@ -225,8 +225,12 @@ public class AnimeTriviaHost extends javax.swing.JFrame implements WindowListene
         setToggleButtonsFalse(0);
         //if clicked on, switch to controls panel
         //if (!controlsToggleButton.isSelected()) {
-            controlsToggleButton.setSelected(true);
-            controlsToggleButton.setIcon(new javax.swing.ImageIcon(getClass().getResource("/animehalloweenprograms/images/controls.png")));
+        controlsToggleButton.setSelected(true);
+        controlsToggleButton.setIcon(new javax.swing.ImageIcon(getClass().getResource("/animehalloweenprograms/images/controls.png")));
+
+        removeAllComponents();
+        triviaControls.setVisible(true);
+        controllerView.add(triviaControls, BorderLayout.CENTER);
         //}
     }//GEN-LAST:event_controlsToggleButtonActionPerformed
 
@@ -234,29 +238,43 @@ public class AnimeTriviaHost extends javax.swing.JFrame implements WindowListene
         setToggleButtonsFalse(1);
         //if clicked on, switch to controls panel
         //if (!questionsToggleButton.isSelected()) {
-            questionsToggleButton.setSelected(true);
-            questionsToggleButton.setIcon(new javax.swing.ImageIcon(getClass().getResource("/animehalloweenprograms/images/questions.png")));
-            //controllerView = questionsPanel;
+        questionsToggleButton.setSelected(true);
+        questionsToggleButton.setIcon(new javax.swing.ImageIcon(getClass().getResource("/animehalloweenprograms/images/questions.png")));
+        //controllerView = questionsPanel;
         //}
+        
+        removeAllComponents();
+        triviaQuestions.setVisible(true);
+        controllerView.add(triviaQuestions, BorderLayout.CENTER);
     }//GEN-LAST:event_questionsToggleButtonActionPerformed
 
     private void playersToggleButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_playersToggleButtonActionPerformed
         setToggleButtonsFalse(2);
         //if clicked on, switch to controls panel
         //if (!playersToggleButton.isSelected()) {
-            playersToggleButton.setSelected(true);
-            playersToggleButton.setIcon(new javax.swing.ImageIcon(getClass().getResource("/animehalloweenprograms/images/players.png")));
-            //controllerView = playersPanel;
+        playersToggleButton.setSelected(true);
+        playersToggleButton.setIcon(new javax.swing.ImageIcon(getClass().getResource("/animehalloweenprograms/images/players.png")));
+
+        removeAllComponents();
+        triviaPlayers.setVisible(true);
+        controllerView.add(triviaPlayers, BorderLayout.CENTER);
         //}
     }//GEN-LAST:event_playersToggleButtonActionPerformed
 
+    private void removeAllComponents() {
+        for (int i = 0; i < controllerView.getComponentCount(); i++) {
+            controllerView.getComponent(i).setVisible(false);
+            controllerView.remove(controllerView.getComponent(i));
+        }
+    }
+
     private void playPauseButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_playPauseButtonActionPerformed
         if (!isPlayingGame) {
-        stopButton.setEnabled(true);
-        playPauseButton.setIcon(new javax.swing.ImageIcon(getClass().getResource("/animehalloweenprograms/images/Pause.png")));
-        isPlayingGame = true;
-        
-        triviaControls.startPlayingGame();
+            stopButton.setEnabled(true);
+            playPauseButton.setIcon(new javax.swing.ImageIcon(getClass().getResource("/animehalloweenprograms/images/Pause.png")));
+            isPlayingGame = true;
+
+            triviaControls.startPlayingGame();
         } else if (isPausedGame) {
             isPausedGame = false;
             playPauseButton.setIcon(new javax.swing.ImageIcon(getClass().getResource("/animehalloweenprograms/images/Pause.png")));
@@ -272,7 +290,7 @@ public class AnimeTriviaHost extends javax.swing.JFrame implements WindowListene
             isPlayingGame = false;
             isPausedGame = false;
             playPauseButton.setIcon(new javax.swing.ImageIcon(getClass().getResource("/animehalloweenprograms/images/Play.png")));
-            
+
             triviaControls.stopPlayingGame();
         }
     }//GEN-LAST:event_stopButtonActionPerformed
@@ -295,41 +313,40 @@ public class AnimeTriviaHost extends javax.swing.JFrame implements WindowListene
             questionsToggleButton.setIcon(new javax.swing.ImageIcon(getClass().getResource("/animehalloweenprograms/images/questionsOff.png")));
         }
     }
-
     /**
      * @param args the command line arguments
      */
     //public static void main(String args[]) {
         /* Set the Nimbus look and feel */
-        //<editor-fold defaultstate="collapsed" desc=" Look and feel setting code (optional) ">
+    //<editor-fold defaultstate="collapsed" desc=" Look and feel setting code (optional) ">
         /* If Nimbus (introduced in Java SE 6) is not available, stay with the default look and feel.
-         * For details see http://download.oracle.com/javase/tutorial/uiswing/lookandfeel/plaf.html 
-         */
-        /*try {
-            for (javax.swing.UIManager.LookAndFeelInfo info : javax.swing.UIManager.getInstalledLookAndFeels()) {
-                if ("Nimbus".equals(info.getName())) {
-                    javax.swing.UIManager.setLookAndFeel(info.getClassName());
-                    break;
-                }
-            }
-        } catch (ClassNotFoundException ex) {
-            java.util.logging.Logger.getLogger(AnimeTriviaHost.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
-        } catch (InstantiationException ex) {
-            java.util.logging.Logger.getLogger(AnimeTriviaHost.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
-        } catch (IllegalAccessException ex) {
-            java.util.logging.Logger.getLogger(AnimeTriviaHost.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
-        } catch (javax.swing.UnsupportedLookAndFeelException ex) {
-            java.util.logging.Logger.getLogger(AnimeTriviaHost.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
-        }*/
-        //</editor-fold>
+     * For details see http://download.oracle.com/javase/tutorial/uiswing/lookandfeel/plaf.html 
+     */
+    /*try {
+     for (javax.swing.UIManager.LookAndFeelInfo info : javax.swing.UIManager.getInstalledLookAndFeels()) {
+     if ("Nimbus".equals(info.getName())) {
+     javax.swing.UIManager.setLookAndFeel(info.getClassName());
+     break;
+     }
+     }
+     } catch (ClassNotFoundException ex) {
+     java.util.logging.Logger.getLogger(AnimeTriviaHost.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+     } catch (InstantiationException ex) {
+     java.util.logging.Logger.getLogger(AnimeTriviaHost.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+     } catch (IllegalAccessException ex) {
+     java.util.logging.Logger.getLogger(AnimeTriviaHost.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+     } catch (javax.swing.UnsupportedLookAndFeelException ex) {
+     java.util.logging.Logger.getLogger(AnimeTriviaHost.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+     }*/
+    //</editor-fold>
 
-        /* Create and display the form */
-        /*java.awt.EventQueue.invokeLater(new Runnable() {
-            public void run() {
-                new AnimeTriviaHost().setVisible(true);
-            }
-        });
-    }*/
+    /* Create and display the form */
+    /*java.awt.EventQueue.invokeLater(new Runnable() {
+     public void run() {
+     new AnimeTriviaHost().setVisible(true);
+     }
+     });
+     }*/
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JPanel controllerView;
     private javax.swing.JToggleButton controlsToggleButton;

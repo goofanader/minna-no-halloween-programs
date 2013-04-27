@@ -24,6 +24,7 @@ public class TriviaControls extends javax.swing.JPanel {
         categories.setTriviaControls(this);
         
         questionAnswer = new ControlsQuestionAnswer();
+        questionAnswer.setTriviaControls(this);
         
         displayPanel.setLayout(new BorderLayout());
         displayPanel.add(notPlaying, BorderLayout.CENTER);
@@ -39,9 +40,10 @@ public class TriviaControls extends javax.swing.JPanel {
     
     public void stopPlayingGame() {
         removeAllComponents();
+        questionAnswer.stopTimers();
         
         notPlaying.setVisible(true);
-        displayPanel.add(notPlaying);
+        displayPanel.add(notPlaying, BorderLayout.CENTER);
     }
     
     public void pausePlayingGame() {
@@ -52,23 +54,30 @@ public class TriviaControls extends javax.swing.JPanel {
         removeAllComponents();
         
         questionAnswer.setVisible(true);
-        displayPanel.add(questionAnswer);
+        displayPanel.add(questionAnswer, BorderLayout.CENTER);
         
+        questionAnswer.beginNewQuestion();
         //incorrectButton.setEnabled(true);
         //correctButton.setEnabled(true);
     }
     
-    public void setIncorrectEnabled(boolean isOn) {
-        incorrectButton.setEnabled(isOn);
-    }
-    
-    public void setCorrectEnabled(boolean isOn) {
-        correctButton.setEnabled(isOn);
+    public void playerIsAnswering(String playerName) {
+        questionAnswer.pauseForAnswer();
+        playerNameTextField.setText(playerName);
+        
+        incorrectButton.setEnabled(true);
+        correctButton.setEnabled(true);
     }
     
     public void switchToCategories() {
-        incorrectButton.setEnabled(false);
-        correctButton.setEnabled(false);
+        removeAllComponents();
+        questionAnswer.stopTimers();
+        
+        categories.setVisible(true);
+        displayPanel.add(categories, BorderLayout.CENTER);
+        
+        //incorrectButton.setEnabled(false);
+        //correctButton.setEnabled(false);
     }
     
     private void removeAllComponents() {
