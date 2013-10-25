@@ -83,7 +83,11 @@ public class Main {
       try {
          Scanner fileScanner = new Scanner(new File(filename));
 
-         if (fileScanner.hasNextLine()) fileScanner.nextLine();
+         if (fileScanner.hasNextLine()) {
+            fileScanner.nextLine();
+         }
+
+         String temp = "";
 
          while (fileScanner.hasNextLine()) {
             Category newCategory = new Category();
@@ -94,7 +98,7 @@ public class Main {
             Scanner lineScanner = new Scanner(line);
             lineScanner.useDelimiter(",");
 
-            lineScanner.next();
+            temp = lineScanner.next();
             newCategory.setDifficulty(lineScanner.nextInt()); //edit this so it's int
 
             //next is title of category, 100, first q, first answer
@@ -103,16 +107,39 @@ public class Main {
             //etc
             lineScanner.close(); //incorrect???
 
-            line = fileScanner.nextLine();
-            lineScanner = new Scanner(line);
-            newCategory.setTitle(lineScanner.next());
-            lineScanner.next();
-            lineScanner.useDelimiter("\"");
+            for (int i = 0; i < 5; i++) {
+               line = fileScanner.nextLine();
+               lineScanner = new Scanner(line);
+               lineScanner.useDelimiter(",");
 
-            newQuestions[0] = lineScanner.next();
-            lineScanner.useDelimiter(",");
-            newAnswers[0] = lineScanner.next();
+               if (i == 0) {
+                  newCategory.setTitle(lineScanner.next());
+               } else if (i == 1) {
+                  lineScanner.useDelimiter("\"");
+                  newCategory.setDescription(lineScanner.next());
+                  lineScanner.useDelimiter(",");
+                  temp = lineScanner.next();
+               }
+
+               //rewrite so delimiter is ALWAYS comma. Handle if it's quotes using
+               //split() and checking first char of string.
+               temp = lineScanner.next();
+
+               lineScanner.useDelimiter("\"");
+               temp = lineScanner.next();
+               System.out.println("i=" + i + ", category=" + newCategory.getTitle());
+               newQuestions[i] = lineScanner.next();
+
+               lineScanner.useDelimiter(",");
+               temp = lineScanner.next();
+               newAnswers[i] = lineScanner.next();
+               temp = "";
+            }
+
+            lineScanner.close();
+            
          }
+         fileScanner.close();
       } catch (FileNotFoundException ex) {
          Logger.getLogger(Main.class.getName()).log(Level.SEVERE, null, ex);
       }
