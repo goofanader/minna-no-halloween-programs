@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boards</key>
+	<array>
+		<dict>
+			<key>categories</key>
+			<array>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Tea (Professor Layton and the Eternal Diva)</string>
+							<key>question</key>
+							<string>Professor Layton</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Toro/Fatty Tuna/Fancy Tuna (Ouran High School Host Club)</string>
+							<key>question</key>
+							<string>Haruhi Fujioka (Ouran High School Host Club)</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Melon Bread (Shakugan no Shana)</string>
+							<key>question</key>
+							<string>Shana (Shakugan no Shana)</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Chocolate Coronet (Lucky Star)</string>
+							<key>question</key>
+							<string>Konata (Lucky Star)</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Curry (School Rumble)</string>
+							<key>question</key>
+							<string>Karasuma Oji (School Rumble)</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Favorite Food</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Himari Takakura/Penguin hat (Penguin Drum)</string>
+							<key>question</key>
+							<string>Survival Strategy!</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Togame (Katangatari)</string>
+							<key>question</key>
+							<string>Cheerio!</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Alex Armstrong (Fullmetal Alchemist)</string>
+							<key>question</key>
+							<string>This has been passed down my line for generations!</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Xellos Metallum (Slayers)</string>
+							<key>question</key>
+							<string>That... is a secret.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Monta (Eyeshield 21)</string>
+							<key>question</key>
+							<string>Catch MAX!</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Catchphrases</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Sanji (One Piece)</string>
+							<key>question</key>
+							<string>This cook fights only with his legs, so that his hands don't get dirty.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Death the Kid (Soul Eater)</string>
+							<key>question</key>
+							<string>He won't fight unless there's perfect symmetry.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Vash the Stampede (Trigun)</string>
+							<key>question</key>
+							<string>This outlaw wandering the desert refuses to harm humans despite his pinpoint marksmanship.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Spike Spiegel (Cowboy Bebop)</string>
+							<key>question</key>
+							<string>This space bounty hunter fights like clear water.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Kenichi Shirahama (Kenichi the Mightiest Disciple)</string>
+							<key>question</key>
+							<string>This martial artist combines different martial arts to create his own fighting style.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Fighting Styles</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Case Closed</string>
+							<key>question</key>
+							<string>Famous High School Detective becomes a child.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>UN-GO</string>
+							<key>question</key>
+							<string>Defeated Detective who solves mysteries with his boss who is a young boy or busty mature woman.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Dangan Ronpa</string>
+							<key>question</key>
+							<string>Student kills others in order to graduate while the rest need to find out which fellow student did it.  </string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Ghost Hunt</string>
+							<key>question</key>
+							<string>Joins the Shibuya Psychic Research center team to help hunts down ghosts. </string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Demon Detective Neuro Nogami</string>
+							<key>question</key>
+							<string>After solving all the mysteries in the demon world, he arrives at the human world to eat more mysteries.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>And the Culprit is YOU!</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Waiting in the Summer</string>
+							<key>question</key>
+							<string>[song here]</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string></string>
+							<key>question</key>
+							<string>Ghost Hound</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Princess Jellyfish</string>
+							<key>question</key>
+							<string>[song here]</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Last Exile</string>
+							<key>question</key>
+							<string>[song here]</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Five Centimeters per Second</string>
+							<key>question</key>
+							<string>[song here]</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Groovin' Magic</string>
+				</dict>
+			</array>
+			<key>title</key>
+			<string>R1B1</string>
+		</dict>
+	</array>
+</dict>
+</plist>

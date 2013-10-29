@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boards</key>
+	<array>
+		<dict>
+			<key>categories</key>
+			<array>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Gundam [Meister, if you wanna get technical] (Mobile Suit Gundam 00)</string>
+							<key>question</key>
+							<string>"ORE WA _________!" - Setsuna F. Seiei from Gundam 00</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Scythe/Weapon (Soul Eater)</string>
+							<key>question</key>
+							<string>Soul Eater can change into this so that his meister, Maka, can fight witches effectively.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>A Robot (Cromartie High School)</string>
+							<key>question</key>
+							<string>In Cromartie High School, Mechazawa is treated like a human in class. However, he does not have a human body, and it's quite obviously...</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Necrolyzed/A Zombie (Gungrave)</string>
+							<key>question</key>
+							<string>Brandon Heat was once human, but he came back as "Beyond the Grave". He is...</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Avatar (Summer Wars)</string>
+							<key>question</key>
+							<string>King Kazma fights against the Love Machine, a rogue computer virus intent on destroying the world. However, Kazma does not exist in the real world. He is an _____ of Kazuma.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>OMG He's a ____</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Nia Teppelin (Tengen Toppa Gurren Lagann)</string>
+							<key>question</key>
+							<string>Her dad had her sealed into a box and thrown into a valley. She was rescued by a depressed emo kid. </string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Melfina (Outlaw Star)</string>
+							<key>question</key>
+							<string>She was inside a box that a bounty hunter was supposed to steal. She turned out to be a starship's navigation system.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>CC (Code Geass)</string>
+							<key>question</key>
+							<string>She was found bound inside a big metal box on the back of a truck. She was a government experiment, and gave powers to her rescuer.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Kyon's Sister (Kyon no Imouto) (The Melancholy of Haruhi Suzumiya)</string>
+							<key>question</key>
+							<string>She snuck into her big brother's luggage to go to his club's trip to a private island. She was caught, but was allowed to go on the trip anyway.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Izumi Maki (Martian Successor Nadesico)</string>
+							<key>question</key>
+							<string>She escaped an exploding space station by hiding inside a toolbox. She is a pilot who is fond of making bad puns.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Travel Size</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Sailor Moon (Sailor Moon)</string>
+							<key>question</key>
+							<string>Serena (Usagi) Tsukino</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Pig (P-chan) (Ranma 1/2)</string>
+							<key>question</key>
+							<string>Ryoga Hibiki</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Togekiss (Pokemon)</string>
+							<key>question</key>
+							<string>Togetic</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Dark Mousy (D.N. Angel)</string>
+							<key>question</key>
+							<string>Daisuke Niwa</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Vandread (Any Type) (Vandread)</string>
+							<key>question</key>
+							<string>Three Dreads &amp; Hibiki's Vanguard</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>HENSHIN</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Naruto</string>
+							<key>question</key>
+							<string>Takeuchi Junko: Naruto: With a sealed demon inside him, he desires to become the strongest ninja in Konoha.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Ayasaki Hayate (Hayate the Combat Butler!)</string>
+							<key>question</key>
+							<string>Shiraishi Ryouko: Hayate no Gotoku: A very unfortunate butler, who works for Sanzenin Nagi in order to repay his debts</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Kurenai Shinkurou (Kurenai)</string>
+							<key>question</key>
+							<string>Sawashiro Miyuki: Kurenai: A capable and strong mediator for Benika, looking after a 7 year old girl named Kuhouin Murasaki from a wealthy background</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Shunpei (Oh!-Edo Rocket)</string>
+							<key>question</key>
+							<string>Kugimiya Rie: Oh! Edo Rocket: He cares deeply about his rocket building brother, Seikichi. Often troubled by things that can't be pinned down by logic and rational thinking.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Pucchan (Best Student Council)</string>
+							<key>question</key>
+							<string>Tamura Yukari: Best Student Council (Gokujou Seitokai): A seemingly ordinary puppet, he is almost always seen accompanying Rino Rando.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>IRL IMA GURL</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Apples (Death Note)</string>
+							<key>question</key>
+							<string>Ryuk</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Bread (Yakitate!! Japan)</string>
+							<key>question</key>
+							<string>Azuma Kazuma</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Lollipops (Rave Master)</string>
+							<key>question</key>
+							<string>Plue</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Yellowtail (Zatch Bell)</string>
+							<key>question</key>
+							<string>Zatch Bell</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Bananas (Eyeshield 21)</string>
+							<key>question</key>
+							<string>Raimon Tarou</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Food Obsessions</string>
+				</dict>
+			</array>
+			<key>title</key>
+			<string>Round 1</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boards</key>
+	<array>
+		<dict>
+			<key>categories</key>
+			<array>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Demons (Black Butler 2)</string>
+							<key>question</key>
+							<string>Claude Faustus and Sebastian Michaelis from Black Butler Season 2 serve their masters Alois and Ciel as butlers respectively. However, it's not just a simple paid job because they're contracted to their masters. They are...</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>(Personification of) Country (Axis Powers: Hetalia)</string>
+							<key>question</key>
+							<string>In Axis Powers: Hetalia, each person mainly represents the stereotypes of their...</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>[Shadow] Angels (Sousei no Aquarion)</string>
+							<key>question</key>
+							<string>Awoken from their 12,000 year slumber, these god-like beings attack humans with their harvest beasts in order to steal humans' prana and restore the Tree of Life. Many of them have their own mecha.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Kirin/Unicorns (12 Kingdoms)</string>
+							<key>question</key>
+							<string>Keiki and Rokuta, two ______ from 12 Kingdoms, must serve their emperors to save their respective kingdoms.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Aliens (and bonus cookie points if you say that Jan-puu's a ship) (Kashimashi: Girl Meets Girl)</string>
+							<key>question</key>
+							<string>Sora and Jan-puu now live in Hazumu's house after crash-landing their ship into his body, changing the boy into a girl. They plan to stay close and observe "her" and see how she reacts to the world.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>OMG They're ___</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Death Note</string>
+							<key>question</key>
+							<string>Teenage psychopath writes names in book</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Katanagatari</string>
+							<key>question</key>
+							<string>Swordless swordsman fights to collect swords</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Hunter x Hunter</string>
+							<key>question</key>
+							<string>Boy with fishing rod becomes hunter</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>The Irresponsible Captain Tylor</string>
+							<key>question</key>
+							<string>Ship captain brilliantly ends space war</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Hikaru no Go</string>
+							<key>question</key>
+							<string>Possessed boy plays abstract board game</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Six word anime descriptions</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Kamehameha Wave (Dragon Ball)</string>
+							<key>question</key>
+							<string>Master Roshi charges up, and lets loose a powerful blast of ki energy.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Gekigan Punch! (Martian Successor Nadesico)</string>
+							<key>question</key>
+							<string>Gekigangar lets loose a tremendous attack with his fist.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Mikuru Beeeeeeamuuu (The Melancholy of Haruhi Suzumiya)</string>
+							<key>question</key>
+							<string>Mikuru puts a peace sign over her eye. She thought it would just be special effects, but she accidentally blows something up.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Tiro Finale (Puella Magi Madoka Magica)</string>
+							<key>question</key>
+							<string>Mami Tomoe finishes an enemy with this barrage of guns.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Who the hell do you think I am kiiiiiiiiicku! (This is in episode 2) (Tengen Toppa Gurren Lagann)</string>
+							<key>question</key>
+							<string>Kamina kicks the enemy with his signature phrase.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Special Moves</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Sound of the Sky</string>
+							<key>question</key>
+							<string>Moe girls playing trumpets.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>K-ON!</string>
+							<key>question</key>
+							<string>Moe Girls playing in a band while drinking tea and eating cakes in the off time.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Beck - Mongolian Chop Squad</string>
+							<key>question</key>
+							<string>They were made to hit in America.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Full Moon wo Sagashite</string>
+							<key>question</key>
+							<string>Tumor on her throat, which might only be cured at the cost of her voice. With help of death gods, she can sing but only for one year before she dies. </string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Interstella5555 - The 5tory of The 5ecret 5tar 5ystem</string>
+							<key>question</key>
+							<string>The story is told entirely via Daft Punk's album Discovery.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Music Shows</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Sumomo (Chobits)</string>
+							<key>question</key>
+							<string>A miniature "mobile persocom"—the equivalent of a laptop computer. Wearing an outfit that makes her resemble a genie, she is programmed to be cute and tends to be quite hyperactive.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Tachikoma (Ghost in the Shell - SAC)</string>
+							<key>question</key>
+							<string>AI walker/roller tank. They are best described as a "spider type multi leg/multi ped combat vehicle equipped with artificial intelligence", possessing the ability to act as both personnel transport units and mobile weapons platforms.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Melfina (Outlaw Star)</string>
+							<key>question</key>
+							<string>A Bio-android created using ancient biotechnology, that goes on a journey through space to find out who she is. Despite being an artificial humanoid, she possesses both free will and human emotions as well as the physical need for food and rest.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Pino (Ergo Proxy)</string>
+							<key>question</key>
+							<string>She develops human artistic talents - from music to drawing. She learns to create rather than imitate. That is her journey from machine to human - her "______" journey.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Casshern (Casshern Sins)</string>
+							<key>question</key>
+							<string>As the man who caused the world to ruin, with no memory of his past he questions why he's alive.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Do Androids Dream of Electric Sheep?</string>
+				</dict>
+			</array>
+			<key>title</key>
+			<string>Round 1</string>
+		</dict>
+	</array>
+</dict>
+</plist>

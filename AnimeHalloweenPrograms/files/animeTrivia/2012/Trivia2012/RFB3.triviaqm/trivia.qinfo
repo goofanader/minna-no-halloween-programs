@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boards</key>
+	<array>
+		<dict>
+			<key>categories</key>
+			<array>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Nice Hollystone (Baccano!)</string>
+							<key>question</key>
+							<string>She lost her eye in a childhood explosives accident but continues to make explosives with a mellow disposition.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Norman Burg (Big O)</string>
+							<key>question</key>
+							<string>Mr. Roger Smith's butler. Sends in the Big O when Roger needs it.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Genjimaru (Utawarerumono)</string>
+							<key>question</key>
+							<string>He served as a guardian and father figure to Kuya, the leader of Kunnekamun.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Marie Mjolnir (Soul Eater)</string>
+							<key>question</key>
+							<string>This woman is lazy and just wants to find a husband so she doesn't have to work anymore. Until then, she works as a death scythe.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Laura Bodewig (Infinite Stratos)</string>
+							<key>question</key>
+							<string>German engineered super soldier girl. Has a glowing yellow left eye, and was involved in some nanomachine stuff.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Depth Perception</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Hayao Miyazaki</string>
+							<key>question</key>
+							<string>Spirited Away, My Neighbor Totoro, Princess Mononoke</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Satoshi Kon</string>
+							<key>question</key>
+							<string>Paranoia Agent, Millenium Actress, Paprika</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Mamoru Hosoda</string>
+							<key>question</key>
+							<string>Summer Wars, The Girl Who Leapt Through Time, Digimon: The Movie</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Kunihiko Ikuhara</string>
+							<key>question</key>
+							<string>Revolutionary Girl Utena, Sailor Moon</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Tatsuyuki Nagai</string>
+							<key>question</key>
+							<string>Toradora!, AnoHana, Honey &amp; Clover II</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Directors of Style</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Kino (Kino's Journey)</string>
+							<key>question</key>
+							<string>This silver Brough Superior motorcycle was raised from the dead by a wandering traveler, and can talk.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Sweet JP (Redline)</string>
+							<key>question</key>
+							<string>This yellow Pontiac Trans Am got a 5th wheel, and the world's last TRZ Airmaster in preparation for its final race.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Rally Vincent (Gunsmith Cats)</string>
+							<key>question</key>
+							<string>This blue 1967 Shelby Mustang Cobra GT500 is constantly getting wrecked in the pursuit of criminals and bail jumpers.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Saber (Fate/Zero)</string>
+							<key>question</key>
+							<string>This black Yamaha V Max motorcycle served well as both a vehicle, and a weapon, defeating and impressing even divine opponents.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Charlotte Yeager (Strike Witches)</string>
+							<key>question</key>
+							<string>This P-51D Mustang Fighter, nicknamed "Merlin", was heavily stripped down and modified, and became the first vehicle in the world to break the sound barrier.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>I Wanna Take You For a Ride</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Li Syaoran (Card Captor Sakura)</string>
+							<key>question</key>
+							<string>This kid wields a magic sword as he helps a magical girl play 52  card pick up.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Hei (Andrew Lee) (Darker than Black Season 2)</string>
+							<key>question</key>
+							<string>Chinese Electric Batman: This ruthless, alcoholic, masked fighter never smiles.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Revy (Black Lagoon)</string>
+							<key>question</key>
+							<string>This woman goes Chow Yun Fat on her enemies: dual wields handguns whilst jumping and diving.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Chao Lingshen (Mahou Sensei Negima!)</string>
+							<key>question</key>
+							<string>This girl is a time traveler who knows kung fu, studies robotics, and is the smartest student in her class.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Wang Liu Mei (Mobile Suit Gundam 00)</string>
+							<key>question</key>
+							<string>This woman performs diplomacy and espionage to further the goals of Celestial Being. She has her bodyguard do all the hands-on stuff for her.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>AI YA</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Prince of Tennis</string>
+							<key>question</key>
+							<string>The story is about a 12-year old tennis genius. He has won multiple tournaments in the US and returned to his homeland in Japan to attend a tennis academy.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Eyeshield 21</string>
+							<key>question</key>
+							<string>The story is about a disguised american footballer.  His remarkable running speed, dodging techniques, and intense agility catch the eye of the high school's American football team captain who then forces him to play.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Big Windup!</string>
+							<key>question</key>
+							<string>The story is about the ace pitcher of his high school's baseball team.  He lost all confidence after a traumatic three years of middle school but the catcher of the team thinks he has what it takes.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Hajime no Ippo</string>
+							<key>question</key>
+							<string>The story is about a bullied high school student that trains to become a boxer.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Taisho Baseball Girls</string>
+							<key>question</key>
+							<string>In 1925, after being told by a baseball player that women should become housewives instead of going to school, two 14-year-old Japanese high school girls decide to start a baseball team in order to prove him wrong.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>GOOOAALLLL</string>
+				</dict>
+			</array>
+			<key>title</key>
+			<string>Round 1</string>
+		</dict>
+	</array>
+</dict>
+</plist>

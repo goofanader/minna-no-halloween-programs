@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boards</key>
+	<array>
+		<dict>
+			<key>categories</key>
+			<array>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Dullahan (Durarara!!)</string>
+							<key>question</key>
+							<string>Celty from Durarara!! has no head, and her horse has been turned into a motorcycle. She once used her scythe to send people to their deaths, but now she's living a cozy life in Ikebukuro.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Ghost (AnoHana)</string>
+							<key>question</key>
+							<string>Menma from AnoHana can only be seen by Jinta. None of her old friends can see her now, but she still wants them all to become friends again.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Goddess/Kami (Kamichu!)</string>
+							<key>question</key>
+							<string>Yurie from Kamichu! suddenly woke up one morning and became this. She has no clue what her actual power is, though, but whenever she does use her power, her hair grows longer.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Ultimate Weapon/WMD/cyborg/plane/something like that (Saikano)</string>
+							<key>question</key>
+							<string>Chise just wants to have a loving relationship with Shuuji, but with the growing modifications to her body, she slowly becomes less human, holding on to her love as her means of keeping her humanity intact.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Undead/Living Shikabane (Corpse Princess)</string>
+							<key>question</key>
+							<string>Makina is tasked with killing 108 corpses in order to gain entrance to Heaven. She uses machine guns to fight alongside her contracted monk, Ouri.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>OMG She's a ___</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Skip Beat</string>
+							<key>question</key>
+							<string>For revenge, girl joins showbiz</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Case Closed</string>
+							<key>question</key>
+							<string>Teenager turned child solves murders</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Blue Exorcist</string>
+							<key>question</key>
+							<string>Son of Satan fights Satan</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Oh!-Edo Rocket</string>
+							<key>question</key>
+							<string>Boy builds rocket to moon</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Katekyo Hitman Reborn</string>
+							<key>question</key>
+							<string>Baby repeatedly shoots mafia boss</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Five word anime descriptions</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Hamtaro</string>
+							<key>question</key>
+							<string>The main character leads an exciting life. Curious by nature, he ventures out each day to make friends and go on adventures with a clan of fellow friends known as The Ham-Hams.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Martian Successor Nadesico</string>
+							<key>question</key>
+							<string>Earth is at war with aliens, and a crew of people go to save Mars.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Outlaw Star</string>
+							<key>question</key>
+							<string>Two men live on various jobs and bounties. While waiting for their ticket to hit it big time, a mysterious woman leaves them with a key to the puzzle of finding a starship of great power.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Bobobo-bo bo-bobo</string>
+							<key>question</key>
+							<string>Man with hair fights anti-hair forces led by Czar Baldy Bald IV.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Ronin Warriors</string>
+							<key>question</key>
+							<string>Five young friends receive the magical samurai armor and become gifted with special weapons and abilities. The task of stopping evil from once again unleashing chaos into the world rests in their hands. </string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Toonami's Back, Bitches</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Brook (One Piece)</string>
+							<key>question</key>
+							<string>This skeleton is, surprisingly, scared of ghosts! (Phasmophobia)</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Yamcha (Dragon Ball)</string>
+							<key>question</key>
+							<string>This fighter tries to collect the Dragon Balls in order to cure his fear of women. (Gynophobia)</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Ranma Saotome (Ranma 1/2)</string>
+							<key>question</key>
+							<string>This martial artist is afraid of cats, so much so that his brain shuts down and becomes a cat's. (Ailurophobia)</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Haruhi (Ouran High School Host Club)</string>
+							<key>question</key>
+							<string>The rest of her club find out that she is scared of thunder and lightning. (Tonitrophobia)</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Motoko Aoyama (Love Hina)</string>
+							<key>question</key>
+							<string>She is afraid of turtles. It doesn't help that her fellow tenants have a flying turtle as a pet. (Herpetophobia)</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Are you scared yet?</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Kurashita Tsukimi (Princess Jellyfish)</string>
+							<key>question</key>
+							<string>Princess Jellyfish</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Ahiru (Duck) (Princess Tutu)</string>
+							<key>question</key>
+							<string>Princess TuTu</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>San (Princess Mononoke)</string>
+							<key>question</key>
+							<string>Princess Mononoke</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Pacifica Casull (Scrapped Princess)</string>
+							<key>question</key>
+							<string>Scrapped Princess</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Alita Forland (Murder Princess)</string>
+							<key>question</key>
+							<string>Murder Princess</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>____ Princess ____</string>
+				</dict>
+			</array>
+			<key>title</key>
+			<string>Round 1</string>
+		</dict>
+	</array>
+</dict>
+</plist>

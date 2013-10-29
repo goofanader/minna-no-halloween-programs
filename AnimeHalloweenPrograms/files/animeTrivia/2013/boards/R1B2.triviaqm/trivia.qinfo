@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boards</key>
+	<array>
+		<dict>
+			<key>categories</key>
+			<array>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Haro (Gundam 00)</string>
+							<key>question</key>
+							<string>This round robot has been featured in many Gundam series.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Tuto (Birdy the Mighty: DECODE)</string>
+							<key>question</key>
+							<string>Both Birdy and this robot get stuck on Earth while chasing a criminal.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Mechazawas (Cromartie High School)</string>
+							<key>question</key>
+							<string>Very few seem to notice at Cromartie High that these brothers are robots.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Sammy (Time of Eve)</string>
+							<key>question</key>
+							<string>This android visits the Time of Eve cafe, but her master Rikuo catches her in the act.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Tima (Metropolis)</string>
+							<key>question</key>
+							<string>This android is modeled after Duke Red's dead daughter and is the trigger for a superweapon.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>00101010</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Inu-Yasha (InuYasha)</string>
+							<key>question</key>
+							<string>Half dog-demon, half human, he has to sit when Kagome says to.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Trunks (Dragon Ball Z)</string>
+							<key>question</key>
+							<string>Half Saiyan, half human; travels through time.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Rin Okumura (Blue Exorcist)</string>
+							<key>question</key>
+							<string>Half demon, half human, he enters an exorcist academy.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>D (Vampire Hunter D)</string>
+							<key>question</key>
+							<string>Half vampire, half human, this vampire hunter hunts vampires.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Zakuro (Otome Youkai Zakuro)</string>
+							<key>question</key>
+							<string>Half spirit, half human, she is part of the Ministry of Spirit Affairs and wields a transforming blade.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Filthy mudblood</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Genshiken</string>
+							<key>question</key>
+							<string>Welcome to the Society for the Study of Modern Visual Culture!</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Honey &amp; Clover</string>
+							<key>question</key>
+							<string>Love triangles abound at this art college.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Paradise Kiss</string>
+							<key>question</key>
+							<string>Yukari models for a college student's clothing line, despite being in high school.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Moyashimon</string>
+							<key>question</key>
+							<string>Sawaki has an advantage at Tokyo's College of Agriculture since he sees microbes.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>[C]</string>
+							<key>question</key>
+							<string>Kimimaro attends the Heisei College of Economics while doing battle on the stock market.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Mu Nu Alpha</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Sakura Ichiko (Binbougami-ga!)</string>
+							<key>question</key>
+							<string>Luck. Lots and Lots of Luck.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Hikaru Shindou (Hikaru no Go)</string>
+							<key>question</key>
+							<string>Possesed child becomes a great Go player.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Yomiko Readman (Read or Die)</string>
+							<key>question</key>
+							<string>PAPER!</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Azuma Kazuma (Yakitate!! Japan)</string>
+							<key>question</key>
+							<string>My warmer hands makes bread better.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Tatsumi Saiga (Speed Grapher)</string>
+							<key>question</key>
+							<string>Camera makes things go BOOM!</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Unusual Superpowers</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Naruto</string>
+							<key>question</key>
+							<string>ninja + ramen + fox = ?</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>A Certain Magical Index</string>
+							<key>question</key>
+							<string>right hand + bad luck = ?</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Natsume's Book of Friends</string>
+							<key>question</key>
+							<string>names * youkai + fat cat = ?</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Okami-san and Her Seven Companions</string>
+							<key>question</key>
+							<string>(wolf + 7 friends) * fairy tales = ?</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Texhnolyze</string>
+							<key>question</key>
+							<string>fighter - arm - leg + Raffia = ?</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Equations</string>
+				</dict>
+			</array>
+			<key>title</key>
+			<string>R1B2</string>
+		</dict>
+	</array>
+</dict>
+</plist>

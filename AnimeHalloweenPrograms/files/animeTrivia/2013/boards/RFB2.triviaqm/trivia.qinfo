@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boards</key>
+	<array>
+		<dict>
+			<key>categories</key>
+			<array>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Pepsi (Tiger &amp; Bunny)</string>
+							<key>question</key>
+							<string>Tiger &amp; Bunny: Blue Rose sponsors this company, drinking their soda ''Nex''.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Pizza Hut (Code Geass)</string>
+							<key>question</key>
+							<string>Code Geass: Pizza...</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Yebisu [Sapporo] (Neon Genesis Evangelion)</string>
+							<key>question</key>
+							<string>Neon Genesis Evangelion: Misato Katsuragi drinks a lot of these Japanese beers.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Haagen-Dazs (Garden of Sinners)</string>
+							<key>question</key>
+							<string>Garden of Sinners: Shiki eats this company's ice cream somewhat reluctantly.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Nissin [Cup Noodles] (Freedom)</string>
+							<key>question</key>
+							<string>Freedom: Takeru really enjoys this company's instant ramen.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Product Placement</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Hanyuu (Higurashi no Naku Koro ni Kai)</string>
+							<key>question</key>
+							<string>Rika repeats the events of Hinamizawa because of this spirit.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Mayoi Hachikuji (Bakemonogatari)</string>
+							<key>question</key>
+							<string>Represented by the snail, Araragi likes teasing this young girl.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Lia de Beaumont (Le Chevalier D'Eon)</string>
+							<key>question</key>
+							<string>She sometimes possesses her brother, D'Eon, to fight off an evil French organization.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Shadi (Yu-Gi-Oh!)</string>
+							<key>question</key>
+							<string>He guarded the tombs of Ancient Egypt, keeping watch on the Millenium items.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Ichiko Takashima (Otoboku)</string>
+							<key>question</key>
+							<string>Mizuho is haunted by this fast-talking ghost while he attends an all-girls academy.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>2spooky</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Keroberos ''Kero'' (Cardcaptor Sakura)</string>
+							<key>question</key>
+							<string>Flying lion with an Osakan accent</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Jiji (Kiki's Delivery Service)</string>
+							<key>question</key>
+							<string>Rides on a witch's broom during deliveries</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Menchi (Excel Saga)</string>
+							<key>question</key>
+							<string>Doubles as the emergency food supply</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Ryo-ohki (Tenchi Muyo)</string>
+							<key>question</key>
+							<string>Is actually a spaceship</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Mokona (Magic Knight Rayearth)</string>
+							<key>question</key>
+							<string>Puu puu PU</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Cute Mascot Creature</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Leeron Littner</string>
+							<key>question</key>
+							<string>The flamboyant mechanic for Team Gurren, he fixes up Simon's mechas for him. (Tengen Toppa Gurren Lagann)</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Noel Kannagi</string>
+							<key>question</key>
+							<string>She spends her time repairing the spider-tank Takemikazuchi. (Sora no Woto)</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Bellows</string>
+							<key>question</key>
+							<string>A boat operator and mechanic on Gargantia, she scavenged Ledo's mecha from the bottom of the ocean.(Gargantia on the Verdurous Planet)</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Fio Piccolo</string>
+							<key>question</key>
+							<string>A gifted seaplane mechanic, she helps Porco repair his plane. (Porco Rosso)</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>James Ray Steam</string>
+							<key>question</key>
+							<string>This young mechanic receives the marvelous ''Steam Ball'' from his grandfather Lloyd. (Steamboy)</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>I can fix it!</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Haruhi Fujioka (Ouran High School Host Club)</string>
+							<key>question</key>
+							<string>“Being a host and getting fussed over by a bunch of girls might not be that bad. I wonder how I can pull it off.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Kino (Kino's Journey)</string>
+							<key>question</key>
+							<string>“If I was asked, ‘Why do you go on journeys?’ I would answer, ‘I go on journeys because I’m a traveler’.”</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Subaru Kono (Mayo Chiki)</string>
+							<key>question</key>
+							<string>“I’ll finish you off with my final, sure-kill move! I call it ‘End of Earth’!”</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Makoto Kikuchi (Idolm@ster)</string>
+							<key>question</key>
+							<string>“Can I go in with a skirt today? I think a prince with a skirt would be pretty original!”</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Naoto Shirogane (Persona 4 The Animation)</string>
+							<key>question</key>
+							<string>“Are you a pack of imbeciles?”</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Reverse Traps</string>
+				</dict>
+			</array>
+			<key>title</key>
+			<string>RFB2</string>
+		</dict>
+	</array>
+</dict>
+</plist>

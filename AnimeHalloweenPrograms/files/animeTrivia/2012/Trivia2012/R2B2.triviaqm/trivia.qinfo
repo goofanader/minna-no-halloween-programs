@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boards</key>
+	<array>
+		<dict>
+			<key>categories</key>
+			<array>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Higurashi no Naku Koro ni</string>
+							<key>question</key>
+							<string> </string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>School Rumble</string>
+							<key>question</key>
+							<string> </string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Natsume's Book of Friends S2</string>
+							<key>question</key>
+							<string> </string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Mahoromatic</string>
+							<key>question</key>
+							<string> </string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Fantastic Children</string>
+							<key>question</key>
+							<string> </string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>More Groovin Magic</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Andrew Lee (Secretary)</string>
+							<key>question</key>
+							<string>Which officer has graduated from Cal Poly?</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Andrew Elliott (Librarian)</string>
+							<key>question</key>
+							<string>Which officer is a Mechanical Engineer?</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Chris (Vice President)</string>
+							<key>question</key>
+							<string>Which officer wears multiple pairs of sunglasses?</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Phyllis (President)</string>
+							<key>question</key>
+							<string>Which officer's high school's colors were green and gold?</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Andrea (Brian's sister and Phyllis's sister)</string>
+							<key>question</key>
+							<string>What name is shared by the siblings of two officers?</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Know your officers! 2</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Air Gear</string>
+							<key>question</key>
+							<string>Air Treks, basically super roller skates, are all the rage. Gangs are being formed that compete in various events using their A-T's.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Speed Racer</string>
+							<key>question</key>
+							<string>Speed and his trusty race car Mach 5 race against fearsome opponents. Speed's brother has a pet chimpanzee.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Redline</string>
+							<key>question</key>
+							<string>A sci-fi film that follows Sweet JP and his sweet, sweet ride. He's the only one in all the races he participates in who uses a regular car - everybody else uses futuristic, high-powered machines.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Initial D</string>
+							<key>question</key>
+							<string>The story focuses on the world of illegal Japanese street racing, where all the action is concentrated in mountain passes, and drifting is key to winning. Cars are highly detailed, the people... not so much.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Ride Back</string>
+							<key>question</key>
+							<string>Ballerina + mech-motorcycle = ?</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Vroom Vroom</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Ouran High School Host Club</string>
+							<key>question</key>
+							<string>A parody of the reverse harem genre, this anime has its protagonist Haruhi get mistaken for a boy and end up serving in a host club catered towards women, surrounded by beautiful boys.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Fruits Basket</string>
+							<key>question</key>
+							<string>Tohru Honda somehow finds herself in the middle of a strange family where each member is cursed to be one of the 13 zodiac animals, including the exiled cat.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Boys Over Flowers</string>
+							<key>question</key>
+							<string>Tsukushi Makino is a poor student studying at a rich kids' academy. The Flower 4 (F4) boys find her intriguing though, especially their leader Tsukasa Domyouji.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Fushigi Yugi</string>
+							<key>question</key>
+							<string>Miaka Yuki is transported to another world while reading "The Universe of the Four Gods". There, she discovers that she is the Priestess of Suzaku, someone who is fated to save this other world.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Wallflower</string>
+							<key>question</key>
+							<string>Four gorgeous boys are given the difficult task of transforming horror-lover Sunako into a beautiful woman for free rent. However, Sunako is such a hikkikomori that it may prove difficult to make that happen...</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Gotta Love All the Boys</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Holo (Horo) (Spice and Wolf)</string>
+							<key>question</key>
+							<string>She has the appearance of a young teenage woman, she has lived for hundreds of years in a field of wheat, blessing the land. </string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Hagu (Honey &amp; Clover)</string>
+							<key>question</key>
+							<string>She is a college student and art prodigy, but she looks like an elementary student. She has (unwittingly) stolen the hearts of many men.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Sasami Masaki Jurai (Tenchi Muyo)</string>
+							<key>question</key>
+							<string>She is a young princess of Jurai, and has spent 700 years in suspended animation. She is perhaps the most level-headed and responsible of her family.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Nagi (Kannagi)</string>
+							<key>question</key>
+							<string>She is a local goddess borne from a tree. She looks like a highschool age girl, but she looked exactly the same when the highschool boy who carved her vessel was but a small child.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Lumiere (Kiddy Grade)</string>
+							<key>question</key>
+							<string>She looks 10, but her life experience spans 200 years. She fights crime in space, and is good at HACKING and computers.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>She's Not Underage, She's Fun Size!</string>
+				</dict>
+			</array>
+			<key>title</key>
+			<string>Round 1</string>
+		</dict>
+	</array>
+</dict>
+</plist>

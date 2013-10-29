@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boards</key>
+	<array>
+		<dict>
+			<key>categories</key>
+			<array>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Taichi (Tai) Yagami (Digimon)</string>
+							<key>question</key>
+							<string>This guy befriends digital monsters like Agumon.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Nausicaa (Nausicaa of the Valley of the Wind)</string>
+							<key>question</key>
+							<string>She wears a goggles/mask combo when she flies and when she's out in the poisonous jungle.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Claus Valca (Last Exile)</string>
+							<key>question</key>
+							<string>This guy wants to become a great vanship pilot.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Edward "Elder" Hamilton (Chrono Crusade)</string>
+							<key>question</key>
+							<string>This perverted old man is a scientist in charge of weapons development.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Kabara (Law of Ueki)</string>
+							<key>question</key>
+							<string>This power user can shoot feathers from his wings like shuriken.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Goggles</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Rockman (Rockman EXE)</string>
+							<key>question</key>
+							<string>Megaman (Megaman NT Warrior)</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Purin (Pokemon)</string>
+							<key>question</key>
+							<string>Jigglypuff (Pokemon)</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Hiroto Honda (Yu-Gi-Oh!)</string>
+							<key>question</key>
+							<string>Tristan Taylor (Yu-Gi-Oh!)</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Heiji Hattori (Case Closed)</string>
+							<key>question</key>
+							<string>Harley Hartwell (Case Closed)</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Leo (Jungle Emperor)</string>
+							<key>question</key>
+							<string>Kimba (Kimba the White Lion)</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Name Translations</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Kugimiya Rie</string>
+							<key>question</key>
+							<string>Kagura, Louise Francoise Le Blanc de La Valliere, Shana,  Sanzen'in Nagi, Happy, Aisaka Taiga</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Horie Yui</string>
+							<key>question</key>
+							<string>Sasaki Makie, Tsukimiya Ayu, Narusegawa Naru, Multi, Seista, Minorin, (Hanyuu)</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Nakahara Mai</string>
+							<key>question</key>
+							<string>Kasugano Midori, Miyafuji Miina, Ryuuguu Rena, Niekawa Haruna, Yasuri Nanami, (Watashi, Hakurei Reimu)</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Mika Kanai</string>
+							<key>question</key>
+							<string>Tiffa Adill, Emi/Yumi Hanner, Chicorita, Vanilla H, Sumeragi Kaguyam, Purin, Houjou Satoko, Eucliwood Hellscythe for Episode 2</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Shintani Ryouko</string>
+							<key>question</key>
+							<string>Sae, Milfeulle Sakuraba, Shizuki Hitomi, Tetsujin Kyoudai Tetsurou, Jan Pu, Sugai Hinata, Miyata Akira, (Hitou Nami)</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Mint's New VA Grab Bag</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Speed Grapher</string>
+							<key>question</key>
+							<string>Saiga Tatsumi uses cameras to destroy his enemies. This power was given to him by Kagura through a kiss. (name the anime)</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Eden of the East</string>
+							<key>question</key>
+							<string>Saki and Takizawa take a picture together while riding a ferry in Tokyo. (name the anime)</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>FLAG</string>
+							<key>question</key>
+							<string>The whole anime is shown through the lens of a camera. It has a different art style than most anime - reminiscent of American cartoons like X-Men:Evolution. (name the anime)</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Muroto-senpai (Birdy the Mighty: DECODE)</string>
+							<key>question</key>
+							<string>This character from Birdy the Mighty: DECODE has his camera broken each time he gets Birdy on film. (name the character)</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Lohmeyer-senpai (Honey &amp; Clover)</string>
+							<key>question</key>
+							<string>This man works at a theme park as their mascot Nyanzaburou. A father takes pictures of his wife and child with this buff man, and then the father asks to have a picture with him. (name the character or anime)</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Smile for the Camera!</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Durarara!!</string>
+							<key>question</key>
+							<string> </string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Clannad</string>
+							<key>question</key>
+							<string> </string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Darker than Black</string>
+							<key>question</key>
+							<string> </string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Ghost in the Shell - SAC</string>
+							<key>question</key>
+							<string> </string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>xxxHolic</string>
+							<key>question</key>
+							<string> </string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Grooovin Magic Finals</string>
+				</dict>
+			</array>
+			<key>title</key>
+			<string>Round 1</string>
+		</dict>
+	</array>
+</dict>
+</plist>

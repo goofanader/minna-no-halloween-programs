@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boards</key>
+	<array>
+		<dict>
+			<key>categories</key>
+			<array>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Purple/Lavender</string>
+							<key>question</key>
+							<string>Inga (UN-GO)</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Indigo/Purple/Blue</string>
+							<key>question</key>
+							<string>Noda (Angel Beats!)</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Blue</string>
+							<key>question</key>
+							<string>Ame (Wolf Children)</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Light blue</string>
+							<key>question</key>
+							<string>Lafiel Abriel (Crest of the Stars)</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Teal</string>
+							<key>question</key>
+							<string>Miharu (Gasaraki)</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Crazy Hair Colors</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Monkey D. Luffy (One Piece)</string>
+							<key>question</key>
+							<string>This would not be so much of a problem if he wasn't the captain of a Pirate ship and can't swim.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Ryoga Hibiki (Ranma 1/2)</string>
+							<key>question</key>
+							<string>The Eternally Lost Boy</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Allen Walker (D. Gray-man)</string>
+							<key>question</key>
+							<string>Wanders around with Timcanpy, his tiny, floating golem.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Kenpachi Zaraki &amp; Yachiru Kusajishi (Bleach)</string>
+							<key>question</key>
+							<string>His GPS is the pink haired girl on his back. Name both characters.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Isumi Saginomiya (Hayate the Combat Butler!)</string>
+							<key>question</key>
+							<string>On top of getting lost easily, she can't use technology. But she can fight demons.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Gets Lost in a Paper Bag</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Momiji Binboda (Binbougami-ga!)</string>
+							<key>question</key>
+							<string>God of Misfortune (God of Flat-Chestedness)</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Holo (Spice and Wolf)</string>
+							<key>question</key>
+							<string>Harvest God</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Oyashiro-sama (Higurashi no Naku Koro Ni)</string>
+							<key>question</key>
+							<string>A vengeful and vicious god that curses anyone who leaves and enters the village</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Katsuragi Keima (The World God Only Knows)</string>
+							<key>question</key>
+							<string>''God'' of Conquest</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Nagi (Kannagi: Crazy Shrine Maidens)</string>
+							<key>question</key>
+							<string>A god that cleanses impurities from the world using a magical-girl baton.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Gods in Anime</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Oreimo</string>
+							<key>question</key>
+							<string>Wait... My sister plays dating sims!?</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Baka and Test: Summon the Beasts</string>
+							<key>question</key>
+							<string>I can get better grades by attacking other classes!</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Welcome to the NHK!</string>
+							<key>question</key>
+							<string>Puru puru puru rin... pururiiiinnnnnnn!</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Ground Control to Psychoelectric Girl</string>
+							<key>question</key>
+							<string>My cousin is an alien?? Nahhhh</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Haganai: I Don't Have Many Friends</string>
+							<key>question</key>
+							<string>Its not like I want to make friends or anything.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Light Novel-Based Anime</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Yoh Asakura</string>
+							<key>question</key>
+							<string>Laid back most of the time, he has some pretty sweet orange headphones. (Shaman King)</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Yosuke Hanamura</string>
+							<key>question</key>
+							<string>Dual-wields blades, has some cool red-orange headphones. (Persona 4 The Animation)</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Kazuma Ikezawa</string>
+							<key>question</key>
+							<string>He wears white headphones when he plays his fighting game. (Summer Wars)</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Justin Law</string>
+							<key>question</key>
+							<string>Priest with earbuds. (Soul Eater)</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Soldier Blue</string>
+							<key>question</key>
+							<string>Leader of rebellious psychic group, has weird space-headphones. (Toward the Terra TV)</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Headphones</string>
+				</dict>
+			</array>
+			<key>title</key>
+			<string>R2B2</string>
+		</dict>
+	</array>
+</dict>
+</plist>
