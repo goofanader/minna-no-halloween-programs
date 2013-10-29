@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boards</key>
+	<array>
+		<dict>
+			<key>categories</key>
+			<array>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Alphonse Elric (Fullmetal Alchemist)</string>
+							<key>question</key>
+							<string>This character IS a suit of armor.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Sho Fukamichi (Guyver: The Bioboosted Armor)</string>
+							<key>question</key>
+							<string>This armor is biologically boosted.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Erza Scarlet (Fairy Tail)</string>
+							<key>question</key>
+							<string>This mage can change their equipped armor at will.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Barnaby Brooks Jr. (Tiger &amp; Bunny)</string>
+							<key>question</key>
+							<string>This character's nickname comes from the two pink ear-like pieces on the armor.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Tony Stark (Iron Man)</string>
+							<key>question</key>
+							<string>Take away the suit and you get a billlionaire, playboy, and philanthropist.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Anime Armor</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Ed (Cowboy Bebop)</string>
+							<key>question</key>
+							<string>Shes a hacker for a space bounty hunter team. Spends most of her time with a Welsh Corgi.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Takeyama ''Christ'' (Angel Beats!)</string>
+							<key>question</key>
+							<string>Aided the Afterlife Battlefront (SSS) in accessing Angel Player.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>James Hawking (Outlaw Star)</string>
+							<key>question</key>
+							<string>Son of the ''Computer Wizard''. Carries a pink maintenance robot with him.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Yoshito Kikuchi (Great Teacher Onizuka)</string>
+							<key>question</key>
+							<string>Used skills to photoshop his teacher on a wooden sex horse. Later befriends said teacher and helps him photoshop his ''material''</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Satome Hakaze (Mahou Sensei Negima!)</string>
+							<key>question</key>
+							<string>Student of a magical young boy teacher, robots always seem to destroy everything.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>I am l33t h4x0r</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Index Librorum Prohibitorum (A Certain Magical Index)</string>
+							<key>question</key>
+							<string>She fell from the sky onto Touma's balcony, and these magicians keep trying to take her away!</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Sakura (Tsubasa: Reservoir Chronicle)</string>
+							<key>question</key>
+							<string>Syaoran protects this princess on his quest to restore her memories.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Rokuro ''Rock'' Okajima (Black Lagoon)</string>
+							<key>question</key>
+							<string>Reverse! Heat-packing Revy keeps this ex-salaryman alive in a world of crooks and yakuza.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Murasaki Kuhoin (Kurenai)</string>
+							<key>question</key>
+							<string>It's highschooler Shinkuro's job to protect this girl.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Pacifica Casul (Scrapped Princess)</string>
+							<key>question</key>
+							<string>Shannon and Raquel protect this princess from the masses that seek to destroy her.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Protect the Girl</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Full Metal Panic</string>
+							<key>question</key>
+							<string>A soldier who's not quite used to social norms goes to school.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Pumpkin Scissors</string>
+							<key>question</key>
+							<string>About an infantry man who can destroy tanks.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Allison &amp; Lillia</string>
+							<key>question</key>
+							<string>A pilot and a friend try to find an end to the war between the two halves of the continent.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Girls und Panzer</string>
+							<key>question</key>
+							<string>Many young girls drive tanks.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>FLAG</string>
+							<key>question</key>
+							<string>War viewed through the lens of a video camera.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Military Anime</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Ryuk/Shinigami</string>
+							<key>question</key>
+							<string>Death Note</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Kyuubey/Incubator</string>
+							<key>question</key>
+							<string>Puella Magi Madoka Magica</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Sebastian Michaelis</string>
+							<key>question</key>
+							<string>Black Butler</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Enma Ai</string>
+							<key>question</key>
+							<string>Hell Girl</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Babidi</string>
+							<key>question</key>
+							<string>Dragon Ball Z</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Deal with the Devil</string>
+				</dict>
+			</array>
+			<key>title</key>
+			<string>R3B2</string>
+		</dict>
+	</array>
+</dict>
+</plist>

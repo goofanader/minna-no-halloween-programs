@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boards</key>
+	<array>
+		<dict>
+			<key>categories</key>
+			<array>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Kimi ni Todoke</string>
+							<key>question</key>
+							<string> </string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Claymore</string>
+							<key>question</key>
+							<string> </string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Toradora!</string>
+							<key>question</key>
+							<string> </string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Gunslinger Girl</string>
+							<key>question</key>
+							<string> </string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Moyashimon</string>
+							<key>question</key>
+							<string> </string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Even More Groovin Magic</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Goshi's</string>
+							<key>question</key>
+							<string>What is your president's favorite local sushi restaurant?</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Chris (Vice President)</string>
+							<key>question</key>
+							<string>Which officer currently resides in what was formerly the BAT cave (and before that rocket)?</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Brian (Treasurer)</string>
+							<key>question</key>
+							<string>Which officer is the youngest?</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Andrew Wang (Webmaster)</string>
+							<key>question</key>
+							<string>Which officer works in the library?</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>None</string>
+							<key>question</key>
+							<string>Which officer(s) do not have a sibling?</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Know your officers! 3</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Monkey D. Luffy (One Piece)</string>
+							<key>question</key>
+							<string>This guy leads a ragtag band of pirates on a quest for a treasure.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Brock (Pokemon)</string>
+							<key>question</key>
+							<string>The first gym leader of the show, he has an affinity for rocks.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Justy Ueki Tylor (The Irresponsible Captain Tylor)</string>
+							<key>question</key>
+							<string>This hapless captain of a spaceship is secretly a genius. Or is he just really lucky?</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Simon (Tengen Toppa Gurren Lagann)</string>
+							<key>question</key>
+							<string>He charges through the universe with his army for the evolution of his race.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Makarov Dreyar (Fairy Tail)</string>
+							<key>question</key>
+							<string>A mage guild master, he is short in stature but has a big heart.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Follow the Leader</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Mahou Sensei Negima!</string>
+							<key>question</key>
+							<string>10 year old professor unwillingly collects his students as partners</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Utawarerumono</string>
+							<key>question</key>
+							<string>Mystical Masked Man with his Furry Harem.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Infinite Stratos</string>
+							<key>question</key>
+							<string>Infinite Harem!</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>GTO</string>
+							<key>question</key>
+							<string>The Main Character, who's a teacher, wishes his female students were his harem.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Demon King Daimou</string>
+							<key>question</key>
+							<string>Future Occupation: Demon King (Of Harem)</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Girl, Girl, Girl, Awkward Boy!</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Trigun</string>
+							<key>question</key>
+							<string>Love and Peace!</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Black Butler</string>
+							<key>question</key>
+							<string>After all, I'm one hell of a butler.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Black Cat</string>
+							<key>question</key>
+							<string>"I have come to deliver some bad luck" </string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Get Backers</string>
+							<key>question</key>
+							<string>Did you enjoy your dream?</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>FLCL</string>
+							<key>question</key>
+							<string>"Nothing out of the ordinary ever happens, just the same old, same old."</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Catch Phrases</string>
+				</dict>
+			</array>
+			<key>title</key>
+			<string>Round 1</string>
+		</dict>
+	</array>
+</dict>
+</plist>

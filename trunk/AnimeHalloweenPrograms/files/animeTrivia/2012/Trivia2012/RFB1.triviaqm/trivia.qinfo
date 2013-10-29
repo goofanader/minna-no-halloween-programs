@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boards</key>
+	<array>
+		<dict>
+			<key>categories</key>
+			<array>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Alphonse Elric (Fullmetal Alchemist)</string>
+							<key>question</key>
+							<string>Fullmetal Alchemist: His soul has been "attached" to a suit of armor by his brother, Edward</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Nena Trinity (Mobile Suit Gundam 00)</string>
+							<key>question</key>
+							<string>Gundam 00: The youngest of the Trinity siblings, she presents herself as a cheerful girl and enjoys taking destructive missions</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Kamyu (Utawarerumono)</string>
+							<key>question</key>
+							<string>Utawarerumono: Her black wings are a unique characteristic within her clan. She is seen frequently playing with Aruru.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Mellona (Queen's Blade)</string>
+							<key>question</key>
+							<string>Queen's Blade: She is a shapeshifting, magic-using girl with a playful, yet sadistic personality who has the ability to take on any physical form. Also: Acid Tits</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Hotaru Imai (Gakuen Alice)</string>
+							<key>question</key>
+							<string>Gakuen Alice: She is consider a geek and a little strange. Her power is the Invention Alice.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Kugimiya Rie</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Isaac x Miria (Baccano!)</string>
+							<key>question</key>
+							<string>This couple are so-called "thieves," but are terrible at it. They accidentally become immortal.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Mytho x Rue (Princess Tutu)</string>
+							<key>question</key>
+							<string>After his heart is put back together, he asks her to be his princess.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Ryuji x Taiga (Toradora!)</string>
+							<key>question</key>
+							<string>This couple helps the other get a boyfriend/girlfriend, but they end up falling in love with each other.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Kou x Nino (Arakawa Under the Bridge)</string>
+							<key>question</key>
+							<string>The guy has to fall in love with the girl because she saves his life, but he doesn't really want to live under a bridge with her.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Nagisa x Shizuma (Strawberry Panic)</string>
+							<key>question</key>
+							<string>On her first day at school, she passes out from a beautiful person's kiss. Also, they're lesbians.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Canon Couples</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>(multiple correct answers) Yusuke Urameshi, Spike Spiegel (<Yu Yu Hakusho><Cowboy Bebop>)</string>
+							<key>question</key>
+							<string>Point your finger and pretend it's a gun. Now it's a handgun.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Vash the Stampede (Trigun)</string>
+							<key>question</key>
+							<string>This .45 caliber stainless Angel Arms Revolver has an unconventional bottom cylinder barrel alignment.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Akemi Homura (Puella Magi Madoka Magica)</string>
+							<key>question</key>
+							<string>This black .50 caliber DEAGLE BRAND DEAGLE was stolen from the Yakuza, and has been slaying witches for god knows how long.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Kohta Hirano (Highschool of the Dead)</string>
+							<key>question</key>
+							<string>This Armalite AR 10 was brought to Japan by an enterprising police officer. It now serves in the hands of a highschool student with the same name as the author of Hellsing.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Henrietta (Gunslinger Girl)</string>
+							<key>question</key>
+							<string>This 2-tone Sig Sauer P239 in 9mm is perfect for those with small hands.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>2 Tickets to the Gun Show</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Osaka/Ayumu Kasuga (Azumanga Dai-oh!)</string>
+							<key>question</key>
+							<string>Two words: Azumanga Dai-oh! If no one's answered the question by this point, here's a hint: she's nicknamed for the town where she's from because of her Kansai dialect.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Keroberos/Kero-chan (Card Captor Sakura)</string>
+							<key>question</key>
+							<string>This stuffed animal from Cardcaptor Sakura looks like a little flying bear/lion.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Sakuya Aizawa (Hayate the Combat Butler!)</string>
+							<key>question</key>
+							<string>This girl tries to teach Hayate the importance of boke and tsukkomi manzai routines, oftentimes smacking Hayate with a paper fan for emphasis.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Kyousuke Kawachi (Yakitate!! Japan)</string>
+							<key>question</key>
+							<string>This guy tries his hardest to be as great a baker as his friend and rival Azuma Kazuma, but that's only because he doesn't have a superpower related to baking - he just makes tasty food.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Arumi Asahina OR Satoshi Imamiya (Abenobashi Magical Shopping Arcade)</string>
+							<key>question</key>
+							<string>In Abenobashi Magical Shopping Arcade, the whole town talks in Kansai-ben. Name one of the 2 child leads that go through different versions of the Arcade each episode.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Fuhgeddabouddit!</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Yugi Moto (Yu-Gi-Oh!)</string>
+							<key>question</key>
+							<string>What's purple, yellow, and black all over?</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Shichika Yasuri (Katanagatari)</string>
+							<key>question</key>
+							<string>His hair looks like a leaf.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Bobobo-bo bo-bobo (Bobobo-bo bo-bobo)</string>
+							<key>question</key>
+							<string>Poofy yellow sphere.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Ryunosuke Umemiya (Shaman King)</string>
+							<key>question</key>
+							<string>Wooden swordsman with a black pompadour.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Kyosuke Takakura (Nana)</string>
+							<key>question</key>
+							<string>This laid-back artist has dreadlocks.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Bad Hair Day</string>
+				</dict>
+			</array>
+			<key>title</key>
+			<string>Round 1</string>
+		</dict>
+	</array>
+</dict>
+</plist>

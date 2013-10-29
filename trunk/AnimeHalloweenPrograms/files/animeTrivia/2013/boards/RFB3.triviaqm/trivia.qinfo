@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boards</key>
+	<array>
+		<dict>
+			<key>categories</key>
+			<array>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Dango Daikazoku</string>
+							<key>question</key>
+							<string>Clannad</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Detective Kunkun</string>
+							<key>question</key>
+							<string>Rozen Maiden</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Blood Tune</string>
+							<key>question</key>
+							<string>Chaos;Head</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Mirakurun</string>
+							<key>question</key>
+							<string>Yuru Yuri</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>The Three Slashed/Hatenkou Robo Dojibiron</string>
+							<key>question</key>
+							<string>School Rumble</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Shows within shows</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Orihara Izaya</string>
+							<key>question</key>
+							<string>Durarara!!</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Ginko</string>
+							<key>question</key>
+							<string>Kurenai</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Carmen99</string>
+							<key>question</key>
+							<string>Gun x Sword</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Takedazaki</string>
+							<key>question</key>
+							<string>[C]</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Yamada</string>
+							<key>question</key>
+							<string>Mai-HiME</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Knowledge Brokers</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Kuranosuke Koibuchi (Princess Jellyfish)</string>
+							<key>question</key>
+							<string>A Stylish who's friends with a bunch of otaku</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Isabella Yamamoto (Paradise Kiss)</string>
+							<key>question</key>
+							<string>Goes to a fashion school and helps George with Paradise Kiss</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Mariya Shidou (Maria Holic)</string>
+							<key>question</key>
+							<string>Likes tomenting a girl who's allergic to men</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Peppo (Gankutsuou: The Count of Monte Cristo)</string>
+							<key>question</key>
+							<string>Gets main character kidnapped at Luna festival</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Mikoto Yutaka, Toru Kouno, Yuujiro Shihoudani (Princess Princess)</string>
+							<key>question</key>
+							<string>The school ''Princesses''. Name at least 2.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>It's a Trap!</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Gray Fullbuster (Fairy Tail)</string>
+							<key>question</key>
+							<string>He's supposed to be an ice wizard, but his ability to strip could also be considered magic.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Ueki Kosuke (Law of Ueki)</string>
+							<key>question</key>
+							<string>Turns trash into trees</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Melona (Queen's Blade)</string>
+							<key>question</key>
+							<string>Squirts acid from her boobs</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Kuchinashi (Needless)</string>
+							<key>question</key>
+							<string>Has the power of fragrance. Also tends not to speak.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Crepe Joe (Ranma 1/2)</string>
+							<key>question</key>
+							<string>Fights with crepes</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>That's your power?!</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Keitaro Urashima (Love Hina)</string>
+							<key>question</key>
+							<string>Seeking for childhood sweetheart, gets Harem at Grandma's place</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Tomoki Sakurai (Heaven's Lost Property)</string>
+							<key>question</key>
+							<string>He wishes for flying panties.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Takashi Komuro (Highschool of the Dead)</string>
+							<key>question</key>
+							<string>He fires a bullet between boobs moving at light speed and misses.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Natsuru Senou (Kampfer)</string>
+							<key>question</key>
+							<string>Chosen to join a group of female fighters. Was a male; now a girl.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Alexander ''Sasha'' Nikolaevich Hell (The Qwaser of Stigmata)</string>
+							<key>question</key>
+							<string>He sucks on breasts to gain power.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Nosebleed</string>
+				</dict>
+			</array>
+			<key>title</key>
+			<string>RFB3</string>
+		</dict>
+	</array>
+</dict>
+</plist>

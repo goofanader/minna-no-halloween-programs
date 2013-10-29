@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boards</key>
+	<array>
+		<dict>
+			<key>categories</key>
+			<array>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Code Geass</string>
+							<key>question</key>
+							<string>Destroying an empire with his eye</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Another</string>
+							<key>question</key>
+							<string>Middle school students slowly being killed off</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Katanagatari</string>
+							<key>question</key>
+							<string>Strategist kidnaps a poor fool to go hunting after a bunch of evil swords with her</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Rozen Maiden</string>
+							<key>question</key>
+							<string>Highlander, but with dolls</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Noir</string>
+							<key>question</key>
+							<string>Lady assassins looking for answers while beating up Les Soldats</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Ali Project</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>United States, North America (Baccano!)</string>
+							<key>question</key>
+							<string>Baccano!: The Great Depression has just hit this country.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Italy, Europe (Ristorante Paradiso)</string>
+							<key>question</key>
+							<string>Ristorante Paradiso: the restaurant serves spaghetti and other similar foods.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>China, Asia (CANAAN)</string>
+							<key>question</key>
+							<string>CANAAN: Starts with a dragon dance at a festival.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Brazil, South America (Michiko &amp; Hatchin)</string>
+							<key>question</key>
+							<string>Michiko &amp; Hatchin: They visit a town during the Milenãrio de Samba festival.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Australia, Australia (ef ~ A Tale of Melodies)</string>
+							<key>question</key>
+							<string>ef ~A Tale of Melodies: There are two towns of Otowa - one in Japan, the other in...</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Around the World in 5</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>She's an Alien! Call the Men In Black!</string>
+							<key>question</key>
+							<string>Kirishima Kaito + Takatsuki Ichika-senpai (Waiting in the Summer)</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>STALKER</string>
+							<key>question</key>
+							<string>Ringo Oginome + Tabuki-sensei (Penguin Drum)</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>She's just a little bit obsessed...</string>
+							<key>question</key>
+							<string>Yuno Gasai + Yukiteru Amano (Future Diary)</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>She's a ... zombie?!?!?</string>
+							<key>question</key>
+							<string>Chihiro Furuya + Rea Sanka (Sankarea)</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>She's a ghost o.0</string>
+							<key>question</key>
+							<string>Yuuko Kanoe + Teiichi Niiya (Dusk Maiden of Amnesia)</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Strange Girl</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Puella Magi Madoka Magica</string>
+							<key>question</key>
+							<string>In exchange for having a wish granted, these girls must fight against evil beings.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Cardcaptor Sakura</string>
+							<key>question</key>
+							<string>She has magical powers and is tasked with recovering cards to prevent disaster.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Sailor Moon</string>
+							<key>question</key>
+							<string>She is tasked by a talking cat to save Earth from the Dark Kingdom.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Tokyo Mew Mew</string>
+							<key>question</key>
+							<string>Girls with the DNA of rare animals infused in them.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Shugo Chara!</string>
+							<key>question</key>
+							<string>Characters transform using colorful eggs.</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Magical Girl</string>
+				</dict>
+				<dict>
+					<key>questions</key>
+					<array>
+						<dict>
+							<key>answer</key>
+							<string>Nicholas D. Wolfwood</string>
+							<key>question</key>
+							<string>Vash the Stampede (Trigun)</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Kyon</string>
+							<key>question</key>
+							<string>Haruhi Suzumiya (Melancholy of Haruhi Suzumiya)</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Rei</string>
+							<key>question</key>
+							<string>Asuka (Neon Genesis Evangelion)</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Harry MacDowel</string>
+							<key>question</key>
+							<string>Brandon Heat (Gungrave)</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>answer</key>
+							<string>Griffith</string>
+							<key>question</key>
+							<string>Guts (Berserk)</string>
+							<key>questionType</key>
+							<integer>0</integer>
+							<key>slowReveal</key>
+							<false/>
+							<key>used</key>
+							<false/>
+						</dict>
+					</array>
+					<key>title</key>
+					<string>Foils</string>
+				</dict>
+			</array>
+			<key>title</key>
+			<string>R2B1</string>
+		</dict>
+	</array>
+</dict>
+</plist>
