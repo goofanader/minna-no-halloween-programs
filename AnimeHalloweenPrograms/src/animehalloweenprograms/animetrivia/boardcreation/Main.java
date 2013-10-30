@@ -13,6 +13,7 @@ import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Calendar;
+import java.util.Collections;
 import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -31,7 +32,7 @@ public class Main {
     private static ArrayList<Category> categoryList;
     private static Category[][][] prelimRounds;
     private static Category[][] finals;
-    private static int numBoards, numRounds, numFinals;
+    private static int numBoards, numRounds, numFinals, maxDifficulty;
 
     public static void main(String[] args) {
         //int numBoards = 2, numRounds = 3, numFinals = 3;
@@ -41,6 +42,7 @@ public class Main {
         numBoards = 2;
         numRounds = 3;
         numFinals = 3;
+        maxDifficulty = 0;
 
         categoryList = new ArrayList<Category>();
         prelimRounds = new Category[numRounds][numBoards][TOTAL_CATEGORIES];
@@ -66,7 +68,9 @@ public class Main {
             System.out.println("Specify how you want to build the boards: ");
             System.out.println("\t'1': One Board\n\t'2': One Round");
             System.out.println("\t'3': 3 Rounds and Finals");
-            System.out.println("\t'4': pre-built rounds");
+            System.out.println("\t'4': Pre-Built Rounds");
+            System.out.println("\t'5': Print Series");
+            System.out.println("\t'q': Quit");
 
             //get input
             char choice = inputScanner.next().charAt(0);
@@ -82,11 +86,47 @@ public class Main {
                     numFinals = 0;
                     break;
                 case '3':
+                    makeBoards();
+                    boolean rerun;
+
+                    do {
+                        rerun = false;
+                        System.out.println("Was that satisfactory? (y/n)");
+                        char ans = inputScanner.next().charAt(0);
+
+                        if (ans == 'n') {
+                            System.out.println("Rerun? (y/n)");
+                            char runAns = inputScanner.next().charAt(0);
+
+                            if (runAns == 'y') {
+                                rerun = true;
+                                makeBoards();
+                            } else {
+                                rerun = flag = false;
+                            }
+                        } else {
+                            System.out.println("Make the boards for the program? (y/n)");
+                            char boardAns = inputScanner.next().charAt(0);
+
+                            if (boardAns == 'y') {
+                                //createXMLPrelim();
+                                //createXMLFinal();
+                            }
+                        }
+                    } while (rerun);
                     break;
                 case '4':
                     System.out.println("Specify the file with the pre-made boards.");
                     String file = inputScanner.next();
                     makeBoards(file);
+                    printBoards();
+                    break;
+                case '5':
+                    printSeries();
+                    flag = false;
+                    break;
+                case 'q':
+                    System.out.println("Goodbye.");
                     break;
                 default:
                     System.out.println("Key incorrect. Please try again.");
@@ -109,6 +149,7 @@ public class Main {
 
             while (fileScanner.hasNextLine()) {
                 Category newCategory = new Category();
+                newCategory.setAuthor(filename.getName());
                 String[] newQuestions = new String[TOTAL_QUESTIONS];
                 String[] newAnswers = new String[TOTAL_QUESTIONS];
                 String[] newSeries = new String[TOTAL_QUESTIONS];
@@ -120,8 +161,15 @@ public class Main {
 
                 temp = lineScanner.next();
                 newCategory.setDifficulty(lineScanner.nextInt()); //edit this so it's int
+
+                if (newCategory.getDifficulty() > maxDifficulty) {
+                    maxDifficulty = newCategory.getDifficulty();
+                }
                 if (lineScanner.hasNext()) {
-                    needsToFlip = true;
+                    temp = lineScanner.next();
+                    if (temp.equals("flip")) {
+                        needsToFlip = true;
+                    }
                 }
                 //next is title of category, 100, first q, first answer
                 //description,200,2nd q, 2nd answer
@@ -182,7 +230,7 @@ public class Main {
                     //split() and checking first char of string.
                     temp = lineScanner.next();
 
-                    System.out.println("i=" + i + ", category=" + newCategory.getTitle());
+                    //System.out.println("i=" + i + ", category=" + newCategory.getTitle());
                     String delimitedText = "";
 
                     if (needsToFlip) {
@@ -361,28 +409,53 @@ public class Main {
     }
 
     private static void printBoards() {
+        for (int i = 0; i < numRounds; i++) {
+            for (int j = 0; j < numBoards; j++) {
+                System.out.println("R" + Integer.toString(i + 1) + "B"
+                        + Integer.toString(j + 1) + ":");
+                int totalDifficulty = 0;
+
+                for (int k = 0; k < TOTAL_CATEGORIES; k++) {
+                    System.out.println(prelimRounds[i][j][k].getTitle()
+                            + " (" + prelimRounds[i][j][k].getAuthor() + ")");
+                    totalDifficulty += prelimRounds[i][j][k].getDifficulty();
+                }
+
+                System.out.println("==========Diff: " + totalDifficulty + "==========");
+            }
+        }
         
-        /*for (int i = 0; i < 5; i++) {
-            int round = 0, board = 0;
-            for (int j = 0; j < 9; j++) {
-                if (j < 6) {
-                    System.out.print(prelimRounds[round][board++][i] + "\t");
+        for (int i = 0; i < numFinals; i++) {
+            System.out.println("RFB" + Integer.toString(i+1) + ":");
+            int totalDifficulty = 0;
+            
+            for (int j = 0; j < TOTAL_CATEGORIES; j++) {
+                System.out.println(finals[i][j].getTitle() + " (" + 
+                        finals[i][j].getAuthor() + ")");
+                totalDifficulty += finals[i][j].getDifficulty();
+            }
+            
+            System.out.println("==========Diff: " + totalDifficulty + "==========");
+        }
+    }
 
-                    if (board % numBoards == 0) {
-                        board = 0;
-                        round++;
+    private static void printSeries() {
+        ArrayList<String> seriesList = new ArrayList<String>();
 
-                        if (round % numRounds == 0) {
-                            round = board = 0;
-                        }
-                    }
-                } else {
-                    System.out.print(finals[board++][i] + "\t");
+        for (Category cat : categoryList) {
+            for (int i = 0; i < TOTAL_QUESTIONS; i++) {
+                if (!seriesList.contains(cat.getSeries()[i].toLowerCase())) {
+                    seriesList.add(cat.getSeries()[i].toLowerCase());
                 }
             }
+        }
 
-            System.out.println();
-        }*/
+        Collections.sort(seriesList);
+
+        System.out.println("Series List:");
+        for (String series : seriesList) {
+            System.out.println(series);
+        }
     }
 
     public static void createXMLPrelim(String filename, int round, int board) {
@@ -548,33 +621,222 @@ public class Main {
 
     private static Category changeAmpersands(Category cat) {
         cat.setTitle(addInAmps(cat.getTitle()));
-        
+
         String[] tempQuestions = cat.getQuestions();
         String[] tempAnswers = cat.getAnswers();
-        
+
         for (int i = 0; i < TOTAL_QUESTIONS; i++) {
             tempQuestions[i] = addInAmps(tempQuestions[i]);
             tempAnswers[i] = addInAmps(tempAnswers[i]);
         }
-        
+
         cat.setAnswers(tempAnswers);
         cat.setQuestions(tempQuestions);
-        
+
         return cat;
     }
-    
+
     private static String addInAmps(String title) {
         if (title.contains("&")) {
             String[] temp = title.split("&");
             title = "";
             for (int i = 0; i < temp.length; i++) {
                 title += temp[i];
-                
-                if (i != temp.length - 1)
+
+                if (i != temp.length - 1) {
                     title += "&amp;";
+                }
             }
         }
-        
+
         return title;
+    }
+
+    private static void makeBoards() {
+        ArrayList<ArrayList<String>> seriesList = new ArrayList<ArrayList<String>>();
+        boolean hasFinished = false;
+        int board = 0, round = 0, categoryNum = 0, currDiff = 1, diffCount = 0;
+
+        ArrayList<ArrayList<Category>> difficultiesList = new ArrayList<ArrayList<Category>>();
+
+        for (int i = 0; i <= maxDifficulty; i++) {
+            difficultiesList.add(new ArrayList<Category>());
+        }
+
+        //create difficulty list
+        for (Category cat : categoryList) {
+            difficultiesList.get(cat.getDifficulty()).add(cat);
+        }
+        //randomize each list
+        for (int i = 0; i <= maxDifficulty; i++) {
+            Collections.shuffle(difficultiesList.get(i));
+        }
+
+        //initialize seriesList
+        for (int i = 0; i < numRounds; i++) {
+            seriesList.add(new ArrayList<String>());
+        }
+
+        while (!hasFinished) {
+            boolean canAddCat = true, isDiffEmpty, hasEnoughCats;
+
+            //check to see there's enough of the difficulty categories left
+            //to fill out 3 rounds
+            do {
+                hasEnoughCats = true;
+                if (round == 0 && difficultiesList.get(currDiff).size() < numRounds) {
+                    currDiff++;
+                    hasEnoughCats = false;
+
+                    if (currDiff >= maxDifficulty) {
+                        currDiff = 1;
+                    }
+                }
+            } while (!hasEnoughCats);
+
+            //check if the difficulty list is empty or not
+            do {
+                if (difficultiesList.get(currDiff).isEmpty()) {
+                    currDiff++;
+
+                    if (currDiff >= maxDifficulty) {
+                        currDiff = 1;
+                    }
+                    isDiffEmpty = true; //add a counter if all lists are empty oof
+                    //not necessary, though, if everyone made categories...
+                } else {
+                    isDiffEmpty = false;
+                }
+            } while (isDiffEmpty);
+            Category toAdd = difficultiesList.get(currDiff).remove(0);
+
+            //check if the series are in the round already
+            for (int i = 0; i < TOTAL_QUESTIONS; i++) {
+                String series = toAdd.getSeries()[i].toLowerCase();
+
+                if (seriesList.get(round).contains(series)) {
+                    canAddCat = false;
+                    break;
+                }
+            }
+
+            if (canAddCat) {
+                prelimRounds[round][board][categoryNum] = toAdd;
+
+                //add series to the seriesList for that round
+                for (int i = 0; i < TOTAL_QUESTIONS; i++) {
+                    seriesList.get(round).add(toAdd.getSeries()[i].toLowerCase());
+                }
+                diffCount = 0;
+                round++;
+
+                if (round >= numRounds) {
+                    round = 0;
+                    categoryNum++;
+
+                    if (categoryNum >= TOTAL_CATEGORIES) {
+                        categoryNum = 0;
+                        board++;
+
+                        if (board >= numBoards) {
+                            hasFinished = true;
+                        }
+                    }
+                }
+            } else {
+                difficultiesList.get(currDiff).add(toAdd);
+                diffCount++;
+
+                if (diffCount >= difficultiesList.get(currDiff).size()) {
+                    currDiff++;
+
+                    if (currDiff >= difficultiesList.size()) {
+                        currDiff = 1;
+                    }
+                }
+            }
+        }
+
+        //now, do the finals boards.
+        hasFinished = false;
+        round = 0;
+        categoryNum = 0;
+
+        //start with half the number, and the higher one at
+        currDiff = (int) Math.ceil(maxDifficulty / 2.0);
+        ArrayList<ArrayList<String>> finalsSeriesList = new ArrayList<ArrayList<String>>();
+
+        for (int i = 0; i < numFinals; i++) {
+            finalsSeriesList.add(new ArrayList<String>());
+        }
+
+        while (!hasFinished) {
+            boolean canAddCat = true, isDiffEmpty, hasEnoughCats;
+
+            //check if the difficulty list is empty or not
+            do {
+                if (difficultiesList.get(currDiff).isEmpty()) {
+                    currDiff++;
+
+                    if (currDiff >= maxDifficulty) {
+                        currDiff = 1;
+                    }
+                    isDiffEmpty = true; //add a counter if all lists are empty oof
+                    //not necessary, though, if everyone made categories...
+                } else {
+                    isDiffEmpty = false;
+                }
+            } while (isDiffEmpty);
+            Category toAdd = difficultiesList.get(currDiff).remove(0);
+
+            //check if the series are in the round already
+            for (int i = 0; i < TOTAL_QUESTIONS; i++) {
+                String series = toAdd.getSeries()[i].toLowerCase();
+
+                if (seriesList.get(round).contains(series)) {
+                    canAddCat = false;
+                    break;
+                } else if (round + 1 < numFinals && seriesList.get(round + 1).contains(series)) {
+                    canAddCat = false;
+                    break;
+                } else if (round - 1 > -1 && seriesList.get(round - 1).contains(series)) {
+                    canAddCat = false;
+                    break;
+                }
+            }
+
+            if (canAddCat) {
+                finals[round][categoryNum] = toAdd;
+
+                //add series to the seriesList for that round
+                for (int i = 0; i < TOTAL_QUESTIONS; i++) {
+                    seriesList.get(round).add(toAdd.getSeries()[i].toLowerCase());
+                }
+                diffCount = 0;
+                categoryNum++;
+
+                if (categoryNum >= TOTAL_CATEGORIES) {
+                    categoryNum = 0;
+                    round++;
+
+                    if (round >= numFinals) {
+                        hasFinished = true;
+                    }
+                }
+            } else {
+                difficultiesList.get(currDiff).add(toAdd);
+                diffCount++;
+
+                if (diffCount >= difficultiesList.get(currDiff).size()) {
+                    currDiff++;
+
+                    if (currDiff >= difficultiesList.size()) {
+                        currDiff = 1;
+                    }
+                }
+            }
+        }
+
+        printBoards();
     }
 }
