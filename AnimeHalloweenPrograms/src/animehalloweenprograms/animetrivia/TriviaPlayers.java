@@ -91,11 +91,11 @@ public class TriviaPlayers extends javax.swing.JPanel {
             .addGap(0, 343, Short.MAX_VALUE)
         );
 
-        jButton1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/animehalloweenprograms/images/Plus.png"))); // NOI18N
+        jButton1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/animehalloweenprograms/animetrivia/images/Plus.png"))); // NOI18N
 
-        jButton2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/animehalloweenprograms/images/Minus.png"))); // NOI18N
+        jButton2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/animehalloweenprograms/animetrivia/images/Minus.png"))); // NOI18N
 
-        jButton3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/animehalloweenprograms/images/ButtonSet.png"))); // NOI18N
+        jButton3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/animehalloweenprograms/animetrivia/images/ButtonSet.png"))); // NOI18N
         jButton3.setPreferredSize(new java.awt.Dimension(77, 77));
 
         jTextField1.setText("Player 1");

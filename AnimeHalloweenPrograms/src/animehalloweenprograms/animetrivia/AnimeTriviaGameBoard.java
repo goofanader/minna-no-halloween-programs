@@ -124,7 +124,8 @@ public class AnimeTriviaGameBoard implements Runnable {
         //we'd put sound here as per the Space Invaders example game
         //do it later, though.
 
-        questionableLogo = getSprite("animehalloweenprograms/images/FakeQuestionableLogo.png");
+        questionableLogo = getSprite("animehalloweenprograms\\animetrivia\\"
+                + "images\\FakeQuestionableLogo.png");
     }
 
     /**
