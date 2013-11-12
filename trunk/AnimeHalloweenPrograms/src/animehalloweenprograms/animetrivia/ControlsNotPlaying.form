@@ -30,7 +30,7 @@
       <Properties>
         <Property name="horizontalAlignment" type="int" value="0"/>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/animehalloweenprograms/images/questionsOff.png"/>
+          <Image iconType="3" name="/animehalloweenprograms/animetrivia/images/questionsOff.png"/>
         </Property>
       </Properties>
     </Component>

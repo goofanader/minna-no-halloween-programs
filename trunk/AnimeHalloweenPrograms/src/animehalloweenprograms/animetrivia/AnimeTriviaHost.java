@@ -82,7 +82,7 @@ public class AnimeTriviaHost extends javax.swing.JFrame implements WindowListene
         setTitle("Anime Trivia");
         setMinimumSize(new java.awt.Dimension(600, 500));
 
-        controlsToggleButton.setIcon(new javax.swing.ImageIcon(getClass().getResource("/animehalloweenprograms/images/controls.png"))); // NOI18N
+        controlsToggleButton.setIcon(new javax.swing.ImageIcon(getClass().getResource("/animehalloweenprograms/animetrivia/images/controls.png"))); // NOI18N
         controlsToggleButton.setSelected(true);
         controlsToggleButton.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -90,14 +90,14 @@ public class AnimeTriviaHost extends javax.swing.JFrame implements WindowListene
             }
         });
 
-        questionsToggleButton.setIcon(new javax.swing.ImageIcon(getClass().getResource("/animehalloweenprograms/images/questionsOff.png"))); // NOI18N
+        questionsToggleButton.setIcon(new javax.swing.ImageIcon(getClass().getResource("/animehalloweenprograms/animetrivia/images/questionsOff.png"))); // NOI18N
         questionsToggleButton.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 questionsToggleButtonActionPerformed(evt);
             }
         });
 
-        playersToggleButton.setIcon(new javax.swing.ImageIcon(getClass().getResource("/animehalloweenprograms/images/playersOff.png"))); // NOI18N
+        playersToggleButton.setIcon(new javax.swing.ImageIcon(getClass().getResource("/animehalloweenprograms/animetrivia/images/playersOff.png"))); // NOI18N
         playersToggleButton.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 playersToggleButtonActionPerformed(evt);
@@ -106,14 +106,14 @@ public class AnimeTriviaHost extends javax.swing.JFrame implements WindowListene
 
         jLabel1.setText("Timer Here");
 
-        playPauseButton.setIcon(new javax.swing.ImageIcon(getClass().getResource("/animehalloweenprograms/images/Play.png"))); // NOI18N
+        playPauseButton.setIcon(new javax.swing.ImageIcon(getClass().getResource("/animehalloweenprograms/animetrivia/images/Play.png"))); // NOI18N
         playPauseButton.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 playPauseButtonActionPerformed(evt);
             }
         });
 
-        stopButton.setIcon(new javax.swing.ImageIcon(getClass().getResource("/animehalloweenprograms/images/Stop.png"))); // NOI18N
+        stopButton.setIcon(new javax.swing.ImageIcon(getClass().getResource("/animehalloweenprograms/animetrivia/images/Stop.png"))); // NOI18N
         stopButton.setBorder(null);
         stopButton.setBorderPainted(false);
         stopButton.setEnabled(false);
@@ -134,7 +134,7 @@ public class AnimeTriviaHost extends javax.swing.JFrame implements WindowListene
         );
         controllerViewLayout.setVerticalGroup(
             controllerViewLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 620, Short.MAX_VALUE)
+            .addGap(0, 581, Short.MAX_VALUE)
         );
 
         jMenu1.setText("File");
@@ -215,7 +215,7 @@ public class AnimeTriviaHost extends javax.swing.JFrame implements WindowListene
                     .addComponent(stopButton, javax.swing.GroupLayout.Alignment.LEADING, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addComponent(jLabel1, javax.swing.GroupLayout.Alignment.LEADING, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(controllerView, javax.swing.GroupLayout.DEFAULT_SIZE, 620, Short.MAX_VALUE))
+                .addComponent(controllerView, javax.swing.GroupLayout.DEFAULT_SIZE, 581, Short.MAX_VALUE))
         );
 
         pack();
@@ -226,7 +226,8 @@ public class AnimeTriviaHost extends javax.swing.JFrame implements WindowListene
         //if clicked on, switch to controls panel
         //if (!controlsToggleButton.isSelected()) {
         controlsToggleButton.setSelected(true);
-        controlsToggleButton.setIcon(new javax.swing.ImageIcon(getClass().getResource("/animehalloweenprograms/images/controls.png")));
+        controlsToggleButton.setIcon(new javax.swing.ImageIcon(getClass().
+                getResource("/animehalloweenprograms/animetrivia/images/controls.png")));
 
         removeAllComponents();
         triviaControls.setVisible(true);
@@ -239,7 +240,8 @@ public class AnimeTriviaHost extends javax.swing.JFrame implements WindowListene
         //if clicked on, switch to controls panel
         //if (!questionsToggleButton.isSelected()) {
         questionsToggleButton.setSelected(true);
-        questionsToggleButton.setIcon(new javax.swing.ImageIcon(getClass().getResource("/animehalloweenprograms/images/questions.png")));
+        questionsToggleButton.setIcon(new javax.swing.ImageIcon(getClass().
+                getResource("/animehalloweenprograms/animetrivia/images/questions.png")));
         //controllerView = questionsPanel;
         //}
         
@@ -253,7 +255,8 @@ public class AnimeTriviaHost extends javax.swing.JFrame implements WindowListene
         //if clicked on, switch to controls panel
         //if (!playersToggleButton.isSelected()) {
         playersToggleButton.setSelected(true);
-        playersToggleButton.setIcon(new javax.swing.ImageIcon(getClass().getResource("/animehalloweenprograms/images/players.png")));
+        playersToggleButton.setIcon(new javax.swing.ImageIcon(getClass().
+                getResource("/animehalloweenprograms/animetrivia/images/players.png")));
 
         removeAllComponents();
         triviaPlayers.setVisible(true);
@@ -271,16 +274,19 @@ public class AnimeTriviaHost extends javax.swing.JFrame implements WindowListene
     private void playPauseButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_playPauseButtonActionPerformed
         if (!isPlayingGame) {
             stopButton.setEnabled(true);
-            playPauseButton.setIcon(new javax.swing.ImageIcon(getClass().getResource("/animehalloweenprograms/images/Pause.png")));
+            playPauseButton.setIcon(new javax.swing.ImageIcon(getClass().
+                    getResource("/animehalloweenprograms/animetrivia/images/Pause.png")));
             isPlayingGame = true;
 
             triviaControls.startPlayingGame();
         } else if (isPausedGame) {
             isPausedGame = false;
-            playPauseButton.setIcon(new javax.swing.ImageIcon(getClass().getResource("/animehalloweenprograms/images/Pause.png")));
+            playPauseButton.setIcon(new javax.swing.ImageIcon(getClass().
+                    getResource("/animehalloweenprograms/animetrivia/images/Pause.png")));
         } else if (!isPausedGame) {
             isPausedGame = true;
-            playPauseButton.setIcon(new javax.swing.ImageIcon(getClass().getResource("/animehalloweenprograms/images/Play.png")));
+            playPauseButton.setIcon(new javax.swing.ImageIcon(getClass().
+                    getResource("/animehalloweenprograms/animetrivia/images/Play.png")));
         }
     }//GEN-LAST:event_playPauseButtonActionPerformed
 
@@ -289,7 +295,8 @@ public class AnimeTriviaHost extends javax.swing.JFrame implements WindowListene
             stopButton.setEnabled(false);
             isPlayingGame = false;
             isPausedGame = false;
-            playPauseButton.setIcon(new javax.swing.ImageIcon(getClass().getResource("/animehalloweenprograms/images/Play.png")));
+            playPauseButton.setIcon(new javax.swing.ImageIcon(getClass().
+                    getResource("/animehalloweenprograms/animetrivia/images/Play.png")));
 
             triviaControls.stopPlayingGame();
         }
@@ -298,19 +305,25 @@ public class AnimeTriviaHost extends javax.swing.JFrame implements WindowListene
     private void setToggleButtonsFalse(int ignore) {
         if (ignore == 0) {
             playersToggleButton.setSelected(false);
-            playersToggleButton.setIcon(new javax.swing.ImageIcon(getClass().getResource("/animehalloweenprograms/images/playersOff.png")));
+            playersToggleButton.setIcon(new javax.swing.ImageIcon(getClass().
+                    getResource("/animehalloweenprograms/animetrivia/images/playersOff.png")));
             questionsToggleButton.setSelected(false);
-            questionsToggleButton.setIcon(new javax.swing.ImageIcon(getClass().getResource("/animehalloweenprograms/images/questionsOff.png")));
+            questionsToggleButton.setIcon(new javax.swing.ImageIcon(getClass().
+                    getResource("/animehalloweenprograms/animetrivia/images/questionsOff.png")));
         } else if (ignore == 1) {
             controlsToggleButton.setSelected(false);
-            controlsToggleButton.setIcon(new javax.swing.ImageIcon(getClass().getResource("/animehalloweenprograms/images/controlsOff.png")));
+            controlsToggleButton.setIcon(new javax.swing.ImageIcon(getClass().
+                    getResource("/animehalloweenprograms/animetrivia/images/controlsOff.png")));
             playersToggleButton.setSelected(false);
-            playersToggleButton.setIcon(new javax.swing.ImageIcon(getClass().getResource("/animehalloweenprograms/images/playersOff.png")));
+            playersToggleButton.setIcon(new javax.swing.ImageIcon(getClass().
+                    getResource("/animehalloweenprograms/animetrivia/images/playersOff.png")));
         } else {
             controlsToggleButton.setSelected(false);
-            controlsToggleButton.setIcon(new javax.swing.ImageIcon(getClass().getResource("/animehalloweenprograms/images/controlsOff.png")));
+            controlsToggleButton.setIcon(new javax.swing.ImageIcon(getClass().
+                    getResource("/animehalloweenprograms/animetrivia/images/controlsOff.png")));
             questionsToggleButton.setSelected(false);
-            questionsToggleButton.setIcon(new javax.swing.ImageIcon(getClass().getResource("/animehalloweenprograms/images/questionsOff.png")));
+            questionsToggleButton.setIcon(new javax.swing.ImageIcon(getClass().
+                    getResource("/animehalloweenprograms/animetrivia/images/questionsOff.png")));
         }
     }
     /**

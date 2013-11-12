@@ -102,11 +102,11 @@ public class TriviaControls extends javax.swing.JPanel {
         displayPanel = new javax.swing.JPanel();
 
         correctButton.setFont(new java.awt.Font("Tahoma", 0, 36)); // NOI18N
-        correctButton.setIcon(new javax.swing.ImageIcon(getClass().getResource("/animehalloweenprograms/images/Correct.png"))); // NOI18N
+        correctButton.setIcon(new javax.swing.ImageIcon(getClass().getResource("/animehalloweenprograms/animetrivia/images/Correct.png"))); // NOI18N
         correctButton.setEnabled(false);
 
         incorrectButton.setFont(new java.awt.Font("Tahoma", 0, 36)); // NOI18N
-        incorrectButton.setIcon(new javax.swing.ImageIcon(getClass().getResource("/animehalloweenprograms/images/Incorrect.png"))); // NOI18N
+        incorrectButton.setIcon(new javax.swing.ImageIcon(getClass().getResource("/animehalloweenprograms/animetrivia/images/Incorrect.png"))); // NOI18N
         incorrectButton.setEnabled(false);
         incorrectButton.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
